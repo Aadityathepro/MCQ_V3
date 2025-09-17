@@ -1,0 +1,59 @@
+{
+  "Aditya": {
+    "password": "scrypt:32768:8:1$Hfrn4feX7UtJclM1$27fc23d942d8a2f99d8c9ec5e4444eff4ca9f1d348828ee87478f450b032fb7171ca1d7c971e5e82044729c0a5e36ce537e38d66008709f03d4c289e4a644bc0",
+    "plain_password": "1234",
+    "name": "Aditya Choudhary",
+    "stream": "AI/ML",
+    "phone": "9339044861",
+    "unique_id": "FKGN7S",
+    "main_exam_attempted": false,
+    "allow_retake": false
+  },
+  "Abhisek ": {
+    "password": "scrypt:32768:8:1$ORxWDmbCcCHbes3P$16d0f27e2c8f0c7841f00aec5f637d640a81fb2e106ea4727587287a3b428a4f166548014722ae502fd595d18c059269d71b5b042987480ee48db5b590ea595a",
+    "plain_password": "420420",
+    "name": "Abhisek Choudhary",
+    "stream": "Science ",
+    "phone": "7439398980",
+    "unique_id": "AEU5BV",
+    "main_exam_attempted": false,
+    "allow_retake": false
+  },
+  "Sandipan": {
+    "password": "scrypt:32768:8:1$rfbZ5t5fO4t0bTma$7926b51cbf70b1d88cefa133cb395d7b8104960286ee86d0af2ab0b83d797ac85af7071baba2508be855b0e25ddc1e69e764f8cd1f4cd3b3c5c07e94e1455673",
+    "plain_password": "1234",
+    "name": "Sandipan Mukherjee ",
+    "stream": "CSE(AI/ML)",
+    "phone": "8945890255",
+    "unique_id": "UTCL6Q",
+    "main_exam_attempted": false,
+    "allow_retake": false
+  },
+  "Golu ": {
+    "password": "scrypt:32768:8:1$YXEs5eKCPY7snj4O$d10adabcd77634f33a81d0b6041c7716659048090499bf01a05e982bdae6b0b2bb852a10f1b440508a4ffd9493caa034e4d73bda86f6c8800af46d2b917df621",
+    "plain_password": "1234",
+    "name": "Golu",
+    "stream": "BPharm",
+    "phone": "9836306980",
+    "unique_id": "WBH419",
+    "main_exam_attempted": true,
+    "allow_retake": false
+  },
+  "Rajendra": {
+    "password": "scrypt:32768:8:1$PBiMfOfMujOsl1dz$af4c5d6983aad208c4d599ee8f52a8a672a602002d8f17e8350da6fab646595c19f8f56f797e39b3cf4c405c264a901f485e22bbba6e7fdb1ea97cbeb454b086",
+    "plain_password": "1234",
+    "name": "Rajendra yadav",
+    "stream": "Class7",
+    "phone": "8334041032",
+    "unique_id": "GPEEYJ",
+    "allow_retake": false
+  },
+  "ritika": {
+    "password": "scrypt:32768:8:1$jJlaL9FmNtyi24rF$9e692517e8aa4a74b276df97b6a4c7abdce7c65c8c6de423549ce0367c849960c9bc9a9237f73b058b5bb78ce73dcf6d88af73e06f59183a02f0492dea8b7ada",
+    "plain_password": "abcd1234",
+    "name": "Ritika",
+    "stream": "AIML",
+    "phone": "2316547897",
+    "unique_id": "YCEHHQ"
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "active": true,
+  "duration_minutes": 20,
+  "questions": [
+    {
+      "question": "Which of the following data structures follows the Last-In, First-Out (LIFO) principle?",
+      "options": [
+        "Queue",
+        "Array",
+        "Stack",
+        "Linked List"
+      ],
+      "correct_answer": "Stack",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "What is the time complexity of accessing an element in an array by its index?",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(1)",
+        "O(n^2)"
+      ],
+      "correct_answer": "O(1)",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "Which data structure follows the FIFO (First-In, First-Out) principle?",
+      "options": [
+        "Stack",
+        "Tree",
+        "Queue",
+        "Graph"
+      ],
+      "correct_answer": "Queue",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "Which sorting algorithm has a time complexity of O(n log n) in the best case?",
+      "options": [
+        "Bubble Sort",
+        "Selection Sort",
+        "Insertion Sort",
+        "Merge Sort"
+      ],
+      "correct_answer": "Merge Sort",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "Which of the following is a linear data structure?",
+      "options": [
+        "Tree",
+        "Graph",
+        "Array",
+        "Heap"
+      ],
+      "correct_answer": "Array",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "Which data structure uses the LIFO (Last-In, First-Out) principle?",
+      "options": [
+        "Queue",
+        "Linked List",
+        "Stack",
+        "Tree"
+      ],
+      "correct_answer": "Stack",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "What is the purpose of a 'pop' operation in a stack?",
+      "options": [
+        "To add an element to the top of the stack",
+        "To check if the stack is full",
+        "To remove an element from the top of the stack",
+        "To find the size of the stack"
+      ],
+      "correct_answer": "To remove an element from the top of the stack",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "Which of the following is the correct way to declare an integer array of size 5 in C++?",
+      "options": [
+        "int array[5];",
+        "array int[5];",
+        "int array = new int[5];",
+        "array = int[5];"
+      ],
+      "correct_answer": "int array[5];",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "What is the main purpose of an algorithm?",
+      "options": [
+        "To define a data structure",
+        "To solve a specific problem",
+        "To store data",
+        "To display data"
+      ],
+      "correct_answer": "To solve a specific problem",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "What does DSA stand for?",
+      "options": [
+        "Data System Architecture",
+        "Database Storage Algorithm",
+        "Data Structures and Algorithms",
+        "Digital Signal Analysis"
+      ],
+      "correct_answer": "Data Structures and Algorithms",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "What is a graph data structure?",
+      "options": [
+        "A linear data structure",
+        "A hierarchical data structure",
+        "A non-linear data structure consisting of nodes and edges",
+        "A type of array"
+      ],
+      "correct_answer": "A non-linear data structure consisting of nodes and edges",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "What is the root node in a tree data structure?",
+      "options": [
+        "The last node added",
+        "The node with no children",
+        "The node with no parent",
+        "The node with the smallest value"
+      ],
+      "correct_answer": "The node with no parent",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "What is the purpose of a binary search algorithm?",
+      "options": [
+        "To sort an array",
+        "To find the largest element in an array",
+        "To search for an element in a sorted array",
+        "To reverse an array"
+      ],
+      "correct_answer": "To search for an element in a sorted array",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "What is the space complexity of an algorithm?",
+      "options": [
+        "The time it takes to run the algorithm",
+        "The amount of memory the algorithm uses",
+        "The number of lines of code in the algorithm",
+        "The number of input variables the algorithm uses"
+      ],
+      "correct_answer": "The amount of memory the algorithm uses",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "Which of the following is NOT a basic operation on an array?",
+      "options": [
+        "Insertion",
+        "Deletion",
+        "Searching",
+        "Compression"
+      ],
+      "correct_answer": "Compression",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "Which of the following is a linear data structure?",
+      "options": [
+        "Tree",
+        "Graph",
+        "Array",
+        "Heap"
+      ],
+      "correct_answer": "Array",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "What is a node in a linked list composed of?",
+      "options": [
+        "Data and an index",
+        "Data and a key",
+        "Data and a pointer to the next node",
+        "Only data"
+      ],
+      "correct_answer": "Data and a pointer to the next node",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "What is the time complexity of a linear search algorithm in the worst case?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n^2)"
+      ],
+      "correct_answer": "O(n)",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "Which data structure is used to implement recursion?",
+      "options": [
+        "Queue",
+        "Linked List",
+        "Stack",
+        "Array"
+      ],
+      "correct_answer": "Stack",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "What does FIFO stand for in the context of data structures?",
+      "options": [
+        "First In \u09ab\u09be\u09b0\u09cd\u09b8\u09cd\u099f Out",
+        "Fast Input Fast Output",
+        "File Input File Output",
+        "First Information First Output"
+      ],
+      "correct_answer": "First In \u09ab\u09be\u09b0\u09cd\u09b8\u09cd\u099f Out",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "What is the purpose of a 'push' operation in a stack?",
+      "options": [
+        "To remove an element from the top of the stack",
+        "To add an element to the top of the stack",
+        "To check if the stack is empty",
+        "To rearrange the elements in the stack"
+      ],
+      "correct_answer": "To add an element to the top of the stack",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "Which of the following is a searching algorithm?",
+      "options": [
+        "Insertion Sort",
+        "Bubble Sort",
+        "Linear Search",
+        "Merge Sort"
+      ],
+      "correct_answer": "Linear Search",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "In which data structure are elements inserted at one end and removed from the other?",
+      "options": [
+        "Stack",
+        "Array",
+        "Queue",
+        "Linked List"
+      ],
+      "correct_answer": "Queue",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "What is the main advantage of using a linked list over an array?",
+      "options": [
+        "Faster access to elements",
+        "Dynamic size",
+        "Lower memory usage",
+        "Simpler implementation"
+      ],
+      "correct_answer": "Dynamic size",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    },
+    {
+      "question": "Which data structure follows the LIFO (Last-In, First-Out) principle?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Linked List",
+        "Tree"
+      ],
+      "correct_answer": "Stack",
+      "Difficulty Level": "Beginner",
+      "subject": "DSA"
+    }
+  ],
+  "access": {
+    "mode": "all",
+    "user_ids": [
+      "Abhisek "
+    ]
+  },
+  "penalty_per_step": 1
+}

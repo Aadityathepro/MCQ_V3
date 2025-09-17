@@ -1,0 +1,2849 @@
+[
+  {
+    "user_info": {
+      "name": "Golu",
+      "phone": "9836306980",
+      "stream": "BPharm",
+      "unique_id": "WBH419"
+    },
+    "exam_type": "main_exam",
+    "questions_generated": [
+      "Which of the following is a characteristic of cardiac muscle tissue?",
+      "Which of the following structures is primarily responsible for gas exchange in the lungs?",
+      "What is the primary function of the sinoatrial (SA) node?",
+      "What is the function of antibodies in the immune system?",
+      "Which type of joint allows for the greatest range of motion?",
+      "What is the primary function of ADH (antidiuretic hormone)?",
+      "What is the function of surfactant in the alveoli?",
+      "What is the role of the neurotransmitter acetylcholine at the neuromuscular junction?",
+      "Which type of tissue is characterized by its ability to contract and generate movement?",
+      "Where does fertilization typically occur in the female reproductive system?",
+      "What is the primary function of the myelin sheath?",
+      "Which cranial nerve is responsible for transmitting visual information to the brain?",
+      "The nephron is the functional unit of which organ?",
+      "Which of the following is NOT a function of the skeletal system?",
+      "Which hormone is responsible for regulating blood glucose levels by facilitating glucose uptake into cells?",
+      "Which type of cell is responsible for bone resorption?",
+      "What is the function of the parathyroid hormone (PTH)?",
+      "The process of creating glucose from non-carbohydrate sources is called:",
+      "What is the role of bile in digestion?",
+      "Which layer of the skin contains blood vessels, nerves, and hair follicles?",
+      "Which part of the brain is primarily responsible for coordinating movement and balance?",
+      "Which valve prevents backflow of blood from the left ventricle into the left atrium?",
+      "The process by which white blood cells squeeze through capillary walls to fight infection in surrounding tissues is called:",
+      "Which of the following is a component of the lymphatic system?",
+      "What is the name of the structure that connects bone to bone?"
+    ],
+    "answers": [
+      {
+        "question": "Which of the following is a characteristic of cardiac muscle tissue?",
+        "options": [
+          "Voluntary control",
+          "Multinucleated cells",
+          "Striated and involuntary",
+          "Non-striated and voluntary"
+        ],
+        "user_answer": "Voluntary control",
+        "correct_answer": "Striated and involuntary",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of the following structures is primarily responsible for gas exchange in the lungs?",
+        "options": [
+          "Bronchioles",
+          "Trachea",
+          "Alveoli",
+          "Pleura"
+        ],
+        "user_answer": "Alveoli",
+        "correct_answer": "Alveoli",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "What is the primary function of the sinoatrial (SA) node?",
+        "options": [
+          "Regulating blood pressure",
+          "Initiating the heartbeat",
+          "Filtering blood",
+          "Controlling breathing rate"
+        ],
+        "user_answer": "Initiating the heartbeat",
+        "correct_answer": "Initiating the heartbeat",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "What is the function of antibodies in the immune system?",
+        "options": [
+          "Phagocytizing pathogens",
+          "Activating complement",
+          "Neutralizing antigens",
+          "Releasing histamine"
+        ],
+        "user_answer": "Neutralizing antigens",
+        "correct_answer": "Neutralizing antigens",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "Which type of joint allows for the greatest range of motion?",
+        "options": [
+          "Hinge joint",
+          "Pivot joint",
+          "Saddle joint",
+          "Ball-and-socket joint"
+        ],
+        "user_answer": "Hinge joint",
+        "correct_answer": "Ball-and-socket joint",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the primary function of ADH (antidiuretic hormone)?",
+        "options": [
+          "Increase urine production",
+          "Decrease urine production",
+          "Regulate blood glucose",
+          "Stimulate thirst"
+        ],
+        "user_answer": "Regulate blood glucose",
+        "correct_answer": "Decrease urine production",
+        "is_correct": false,
+        "answer_number": "3"
+      },
+      {
+        "question": "What is the function of surfactant in the alveoli?",
+        "options": [
+          "To increase surface tension",
+          "To decrease surface tension",
+          "To transport oxygen",
+          "To destroy pathogens"
+        ],
+        "user_answer": "To transport oxygen",
+        "correct_answer": "To decrease surface tension",
+        "is_correct": false,
+        "answer_number": "3"
+      },
+      {
+        "question": "What is the role of the neurotransmitter acetylcholine at the neuromuscular junction?",
+        "options": [
+          "Inhibiting muscle contraction",
+          "Stimulating muscle contraction",
+          "Regulating hormone release",
+          "Decreasing heart rate"
+        ],
+        "user_answer": "Stimulating muscle contraction",
+        "correct_answer": "Stimulating muscle contraction",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which type of tissue is characterized by its ability to contract and generate movement?",
+        "options": [
+          "Epithelial tissue",
+          "Connective tissue",
+          "Nervous tissue",
+          "Muscle tissue"
+        ],
+        "user_answer": "Muscle tissue",
+        "correct_answer": "Muscle tissue",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "Where does fertilization typically occur in the female reproductive system?",
+        "options": [
+          "Uterus",
+          "Ovary",
+          "Fallopian tube",
+          "Vagina"
+        ],
+        "user_answer": "Fallopian tube",
+        "correct_answer": "Fallopian tube",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "What is the primary function of the myelin sheath?",
+        "options": [
+          "To increase the speed of nerve impulse transmission",
+          "To protect the neuron from physical damage",
+          "To nourish the neuron",
+          "To produce neurotransmitters"
+        ],
+        "user_answer": "To increase the speed of nerve impulse transmission",
+        "correct_answer": "To increase the speed of nerve impulse transmission",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which cranial nerve is responsible for transmitting visual information to the brain?",
+        "options": [
+          "Optic nerve",
+          "Olfactory nerve",
+          "Oculomotor nerve",
+          "Trigeminal nerve"
+        ],
+        "user_answer": "Optic nerve",
+        "correct_answer": "Optic nerve",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "The nephron is the functional unit of which organ?",
+        "options": [
+          "Liver",
+          "Kidney",
+          "Pancreas",
+          "Spleen"
+        ],
+        "user_answer": "Kidney",
+        "correct_answer": "Kidney",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which of the following is NOT a function of the skeletal system?",
+        "options": [
+          "Support",
+          "Movement",
+          "Protection",
+          "Vitamin synthesis"
+        ],
+        "user_answer": "Vitamin synthesis",
+        "correct_answer": "Vitamin synthesis",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "Which hormone is responsible for regulating blood glucose levels by facilitating glucose uptake into cells?",
+        "options": [
+          "Glucagon",
+          "Insulin",
+          "Cortisol",
+          "Epinephrine"
+        ],
+        "user_answer": "Insulin",
+        "correct_answer": "Insulin",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which type of cell is responsible for bone resorption?",
+        "options": [
+          "Osteoblasts",
+          "Osteocytes",
+          "Osteoclasts",
+          "Chondrocytes"
+        ],
+        "user_answer": "Osteocytes",
+        "correct_answer": "Osteoclasts",
+        "is_correct": false,
+        "answer_number": "2"
+      },
+      {
+        "question": "What is the function of the parathyroid hormone (PTH)?",
+        "options": [
+          "Lowering blood calcium levels",
+          "Raising blood calcium levels",
+          "Regulating blood glucose levels",
+          "Stimulating thyroid hormone release"
+        ],
+        "user_answer": "Stimulating thyroid hormone release",
+        "correct_answer": "Raising blood calcium levels",
+        "is_correct": false,
+        "answer_number": "4"
+      },
+      {
+        "question": "The process of creating glucose from non-carbohydrate sources is called:",
+        "options": [
+          "Glycogenesis",
+          "Glycogenolysis",
+          "Gluconeogenesis",
+          "Glycolysis"
+        ],
+        "user_answer": "Gluconeogenesis",
+        "correct_answer": "Gluconeogenesis",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "What is the role of bile in digestion?",
+        "options": [
+          "Breaking down proteins",
+          "Emulsifying fats",
+          "Absorbing carbohydrates",
+          "Neutralizing stomach acid"
+        ],
+        "user_answer": "Breaking down proteins",
+        "correct_answer": "Emulsifying fats",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which layer of the skin contains blood vessels, nerves, and hair follicles?",
+        "options": [
+          "Epidermis",
+          "Dermis",
+          "Hypodermis",
+          "Stratum corneum"
+        ],
+        "user_answer": "Hypodermis",
+        "correct_answer": "Dermis",
+        "is_correct": false,
+        "answer_number": "3"
+      },
+      {
+        "question": "Which part of the brain is primarily responsible for coordinating movement and balance?",
+        "options": [
+          "Cerebrum",
+          "Cerebellum",
+          "Brainstem",
+          "Thalamus"
+        ],
+        "user_answer": "Cerebellum",
+        "correct_answer": "Cerebellum",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which valve prevents backflow of blood from the left ventricle into the left atrium?",
+        "options": [
+          "Tricuspid valve",
+          "Pulmonary valve",
+          "Mitral valve",
+          "Aortic valve"
+        ],
+        "user_answer": "Pulmonary valve",
+        "correct_answer": "Mitral valve",
+        "is_correct": false,
+        "answer_number": "2"
+      },
+      {
+        "question": "The process by which white blood cells squeeze through capillary walls to fight infection in surrounding tissues is called:",
+        "options": [
+          "Diapedesis",
+          "Phagocytosis",
+          "Chemotaxis",
+          "Inflammation"
+        ],
+        "user_answer": "Inflammation",
+        "correct_answer": "Diapedesis",
+        "is_correct": false,
+        "answer_number": "4"
+      },
+      {
+        "question": "Which of the following is a component of the lymphatic system?",
+        "options": [
+          "Liver",
+          "Spleen",
+          "Pancreas",
+          "Gallbladder"
+        ],
+        "user_answer": "Liver",
+        "correct_answer": "Spleen",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the name of the structure that connects bone to bone?",
+        "options": [
+          "Tendon",
+          "Ligament",
+          "Cartilage",
+          "Fascia"
+        ],
+        "user_answer": "Ligament",
+        "correct_answer": "Ligament",
+        "is_correct": true,
+        "answer_number": "2"
+      }
+    ],
+    "timestamp": "2025-09-08T19:51:18.236974",
+    "warnings_count": 0,
+    "report_file": "golu_report_20250908195118.pdf"
+  },
+  {
+    "user_info": {
+      "name": "Aditya Choudhary",
+      "phone": "9339044861",
+      "stream": "AI/ML",
+      "unique_id": "FKGN7S"
+    },
+    "exam_type": "main_exam",
+    "questions_generated": [
+      "\u092a\u094d\u0930\u091a\u0932\u093f\u0924 \u0936\u0915\u094d\u0924\u093f \u0915\u093e \u0938\u094d\u0930\u094b\u0924 \u0939\u0948 :-",
+      "\u0935\u093f\u0936\u094d\u0935 \u092e\u0947\u0902 \u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u0917\u0948\u0938 \u092e\u0947\u0902 \u092a\u094d\u0930\u0925\u092e \u0926\u0947\u0936 \u0939\u0948 :-",
+      "\u092a\u094d\u0930\u0925\u092e \u092a\u0947\u091f\u094d\u0930\u094b\u0932\u093f\u092f\u092e \u0909\u0924\u094d\u092a\u093e\u0926\u0928 \u0936\u0941\u0930\u0942 \u0915\u093f\u092f\u093e :-",
+      "\u092a\u094c\u0927\u094b\u0902 \u0914\u0930 \u091c\u0940\u0935\u094b\u0902 \u092e\u0947\u0902 \u090a\u0930\u094d\u091c\u093e \u092a\u0930\u093f\u0935\u0930\u094d\u0924\u093f\u0924 \u0939\u094b\u0915\u0930 \u092e\u094c\u091c\u0942\u0926 \u0930\u0939\u0924\u0940 \u0939\u0948:",
+      "\u0915\u094b\u092f\u0932\u093e \u0915\u093f\u0938 \u092a\u094d\u0930\u0915\u093e\u0930 \u0915\u093e \u0908\u0902\u0927\u0928 \u0939\u0948 :",
+      "\u091c\u0948\u0935 \u0936\u0915\u094d\u0924\u093f \u0915\u093e \u092a\u094d\u0930\u092f\u094b\u0917 \u091c\u094d\u092f\u093e\u0926\u093e \u0939\u094b\u0924\u093e \u0939\u0948 :-",
+      "\u090f\u0915\u094d\u0938 \u0930\u0947 \u092e\u0947\u0902 \u0915\u093e\u092e \u0906\u0924\u093e \u0939\u0948 :-"
+    ],
+    "answers": [
+      {
+        "question": "\u092a\u094d\u0930\u091a\u0932\u093f\u0924 \u0936\u0915\u094d\u0924\u093f \u0915\u093e \u0938\u094d\u0930\u094b\u0924 \u0939\u0948 :-",
+        "options": [
+          "\u0938\u0940\u092e\u093f\u0924",
+          "\u0905\u0938\u0940\u092e\u093f\u0924",
+          "\u0926\u094b\u0928\u094b\u0902",
+          "\u0915\u094b\u0908 \u0928\u0939\u0940\u0902"
+        ],
+        "user_answer": "\u0938\u0940\u092e\u093f\u0924",
+        "correct_answer": "\u0938\u0940\u092e\u093f\u0924",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "\u0935\u093f\u0936\u094d\u0935 \u092e\u0947\u0902 \u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u0917\u0948\u0938 \u092e\u0947\u0902 \u092a\u094d\u0930\u0925\u092e \u0926\u0947\u0936 \u0939\u0948 :-",
+        "options": [
+          "\u091a\u0940\u0928",
+          "\u0905\u092e\u0947\u0930\u093f\u0915\u093e",
+          "\u0930\u0942\u0938",
+          "\u092d\u093e\u0930\u0924"
+        ],
+        "user_answer": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e",
+        "correct_answer": "\u0930\u0942\u0938",
+        "is_correct": false,
+        "answer_number": "2"
+      },
+      {
+        "question": "\u092a\u094d\u0930\u0925\u092e \u092a\u0947\u091f\u094d\u0930\u094b\u0932\u093f\u092f\u092e \u0909\u0924\u094d\u092a\u093e\u0926\u0928 \u0936\u0941\u0930\u0942 \u0915\u093f\u092f\u093e :-",
+        "options": [
+          "\u0905\u092e\u0947\u0930\u093f\u0915\u093e",
+          "\u092d\u093e\u0930\u0924",
+          "\u091a\u0940\u0928",
+          "\u091c\u0930\u094d\u092e\u0928\u0940"
+        ],
+        "user_answer": "\u092d\u093e\u0930\u0924",
+        "correct_answer": "\u092d\u093e\u0930\u0924",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "\u092a\u094c\u0927\u094b\u0902 \u0914\u0930 \u091c\u0940\u0935\u094b\u0902 \u092e\u0947\u0902 \u090a\u0930\u094d\u091c\u093e \u092a\u0930\u093f\u0935\u0930\u094d\u0924\u093f\u0924 \u0939\u094b\u0915\u0930 \u092e\u094c\u091c\u0942\u0926 \u0930\u0939\u0924\u0940 \u0939\u0948:",
+        "options": [
+          "\u0930\u093e\u0938\u093e\u092f\u0928\u093f\u0915 \u090a\u0930\u094d\u091c\u093e",
+          "\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u090a\u0930\u094d\u091c\u093e",
+          "\u0924\u093e\u092a \u090a\u0930\u094d\u091c\u093e",
+          "\u0938\u094c\u0930 \u090a\u0930\u094d\u091c\u093e"
+        ],
+        "user_answer": "\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u090a\u0930\u094d\u091c\u093e",
+        "correct_answer": "\u0930\u093e\u0938\u093e\u092f\u0928\u093f\u0915 \u090a\u0930\u094d\u091c\u093e",
+        "is_correct": false,
+        "answer_number": "2"
+      },
+      {
+        "question": "\u0915\u094b\u092f\u0932\u093e \u0915\u093f\u0938 \u092a\u094d\u0930\u0915\u093e\u0930 \u0915\u093e \u0908\u0902\u0927\u0928 \u0939\u0948 :",
+        "options": [
+          "\u0938\u094c\u0930 \u0908\u0902\u0927\u0928",
+          "\u091c\u0940\u0935\u093e\u0936\u094d\u092e \u0908\u0902\u0927\u0928",
+          "\u0926\u094b\u0928\u094b\u0902",
+          "\u0915\u094b\u0908 \u0928\u0939\u0940\u0902"
+        ],
+        "user_answer": "\u0926\u094b\u0928\u094b\u0902",
+        "correct_answer": "\u091c\u0940\u0935\u093e\u0936\u094d\u092e \u0908\u0902\u0927\u0928",
+        "is_correct": false,
+        "answer_number": "3"
+      },
+      {
+        "question": "\u091c\u0948\u0935 \u0936\u0915\u094d\u0924\u093f \u0915\u093e \u092a\u094d\u0930\u092f\u094b\u0917 \u091c\u094d\u092f\u093e\u0926\u093e \u0939\u094b\u0924\u093e \u0939\u0948 :-",
+        "options": [
+          "\u0936\u0939\u0930 \u092e\u0947\u0902",
+          "\u0917\u093e\u0901\u0935 \u092e\u0947\u0902",
+          "\u092e\u0947\u091f\u094d\u0930\u094b \u092e\u0947\u0902",
+          "\u0915\u0938\u094d\u092c\u093e \u092e\u0947\u0902"
+        ],
+        "user_answer": "\u092e\u0947\u091f\u094d\u0930\u094b \u092e\u0947\u0902",
+        "correct_answer": "\u0917\u093e\u0901\u0935 \u092e\u0947\u0902",
+        "is_correct": false,
+        "answer_number": "3"
+      },
+      {
+        "question": "\u090f\u0915\u094d\u0938 \u0930\u0947 \u092e\u0947\u0902 \u0915\u093e\u092e \u0906\u0924\u093e \u0939\u0948 :-",
+        "options": [
+          "\u0924\u093e\u092a \u090a\u0930\u094d\u091c\u093e",
+          "\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u090a\u0930\u094d\u091c\u093e",
+          "\u0916\u0928\u093f\u091c \u0924\u0947\u0932 \u090a\u0930\u094d\u091c\u093e",
+          "\u0915\u094b\u0908 \u0928\u0939\u0940\u0902"
+        ],
+        "user_answer": "\u0916\u0928\u093f\u091c \u0924\u0947\u0932 \u090a\u0930\u094d\u091c\u093e",
+        "correct_answer": "\u0935\u093f\u0926\u094d\u092f\u0941\u0924 \u090a\u0930\u094d\u091c\u093e",
+        "is_correct": false,
+        "answer_number": "3"
+      }
+    ],
+    "timestamp": "2025-09-10T18:13:07.154261",
+    "warnings_count": 0,
+    "report_file": "aditya_choudhary_report_20250910181307.pdf"
+  },
+  {
+    "user_info": {
+      "name": "Aditya Choudhary",
+      "phone": "9339044861",
+      "stream": "AI/ML",
+      "unique_id": "FKGN7S"
+    },
+    "exam_type": "main_exam",
+    "questions_generated": [
+      "\u300c\u3053\u3093\u306b\u3061\u306f\u300d\u306f\u3069\u3093\u306a\u610f\u5473\u3067\u3059\u304b\uff1f",
+      "\u6b21\u306e\u3046\u3061\u3001\u6570\u5b57\u306e\u300c1\u300d\u306f\u4f55\u3067\u3059\u304b\uff1f",
+      "\u3053\u308c\u306f\u4f55\u3067\u3059\u304b\uff1f(pointing to a pencil)  \u925b\u7b46\u306f\u65e5\u672c\u8a9e\u3067\u4f55\u3068\u8a00\u3044\u307e\u3059\u304b\uff1f"
+    ],
+    "answers": [
+      {
+        "question": "\u300c\u3053\u3093\u306b\u3061\u306f\u300d\u306f\u3069\u3093\u306a\u610f\u5473\u3067\u3059\u304b\uff1f",
+        "options": [
+          "\u3055\u3088\u3046\u306a\u3089",
+          "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059",
+          "\u3053\u3093\u306b\u3061\u306f",
+          "\u3053\u3093\u3070\u3093\u306f"
+        ],
+        "user_answer": "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059",
+        "correct_answer": "\u3053\u3093\u306b\u3061\u306f",
+        "is_correct": false,
+        "answer_number": "2"
+      },
+      {
+        "question": "\u6b21\u306e\u3046\u3061\u3001\u6570\u5b57\u306e\u300c1\u300d\u306f\u4f55\u3067\u3059\u304b\uff1f",
+        "options": [
+          "\u4e8c",
+          "\u4e00",
+          "\u4e09",
+          "\u56db"
+        ],
+        "user_answer": "\u4e00",
+        "correct_answer": "\u4e00",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "\u3053\u308c\u306f\u4f55\u3067\u3059\u304b\uff1f(pointing to a pencil)  \u925b\u7b46\u306f\u65e5\u672c\u8a9e\u3067\u4f55\u3068\u8a00\u3044\u307e\u3059\u304b\uff1f",
+        "options": [
+          "\u672c (hon)",
+          "\u925b\u7b46 (enpitsu)",
+          "\u6d88\u3057\u30b4\u30e0 (keshigomu)",
+          "\u673a (tsukue)"
+        ],
+        "user_answer": "\u925b\u7b46 (enpitsu)",
+        "correct_answer": "\u925b\u7b46 (enpitsu)",
+        "is_correct": true,
+        "answer_number": "2"
+      }
+    ],
+    "timestamp": "2025-09-10T18:22:44.663662",
+    "warnings_count": 1,
+    "report_file": "aditya_choudhary_report_20250910182244.pdf"
+  },
+  {
+    "user_info": {
+      "name": "Abhisek Choudhary",
+      "phone": "7439398980",
+      "stream": "Science ",
+      "unique_id": "AEU5BV"
+    },
+    "exam_type": "main_exam",
+    "questions_generated": [
+      "Which of the following best defines E-Commerce?",
+      "Which is NOT a main activity of E-Commerce?",
+      "Which of the following is a goal of E-Commerce?",
+      "Which of the following is NOT a technical component of E-Commerce?",
+      "Which is a function of E-Commerce?",
+      "Which of the following is an advantage of E-Commerce?",
+      "Which of the following is a disadvantage of E-Commerce?",
+      "Scope of E-Commerce is mainly limited to:",
+      "Which model involves transactions between businesses and customers?",
+      "In which model do customers sell directly to other customers?",
+      "B2B stands for:",
+      "Which E-Commerce type is used for government-to-government data sharing?",
+      "Which E-Commerce model involves individuals sharing files or services?",
+      "Which of the following is public and accessible to all?",
+      "Intranet is used:",
+      "Extranet is mainly used for:",
+      "Which is NOT an application of E-Commerce?",
+      "Amazon, Flipkart are examples of:",
+      "OLX, Quikr are examples of:",
+      "Which of the following is a benefit of Internet in B2B?",
+      "Which is NOT a web promotion method?",
+      "What is a banner in web promotion?",
+      "Shopping bots are used for:",
+      "Banner exchange refers to:",
+      "What is an Electronic Payment System (EPS)?"
+    ],
+    "answers": [
+      {
+        "question": "Which of the following best defines E-Commerce?",
+        "options": [
+          "Buying and selling of goods only",
+          "Buying and selling of goods and services through electronic means",
+          "Only online banking",
+          "Internet browsing"
+        ],
+        "user_answer": "Buying and selling of goods and services through electronic means",
+        "correct_answer": "Buying and selling of goods and services through electronic means",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which is NOT a main activity of E-Commerce?",
+        "options": [
+          "Buying and selling",
+          "Manufacturing",
+          "Online payment",
+          "Online marketing"
+        ],
+        "user_answer": "Manufacturing",
+        "correct_answer": "Manufacturing",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which of the following is a goal of E-Commerce?",
+        "options": [
+          "Increase transaction speed",
+          "Reduce cost",
+          "Global reach",
+          "All of the above"
+        ],
+        "user_answer": "All of the above",
+        "correct_answer": "All of the above",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "Which of the following is NOT a technical component of E-Commerce?",
+        "options": [
+          "Internet",
+          "Website",
+          "ATM machine",
+          "Payment gateway"
+        ],
+        "user_answer": "ATM machine",
+        "correct_answer": "ATM machine",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "Which is a function of E-Commerce?",
+        "options": [
+          "Advertising",
+          "Customer support",
+          "Online ordering",
+          "All of the above"
+        ],
+        "user_answer": "All of the above",
+        "correct_answer": "All of the above",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "Which of the following is an advantage of E-Commerce?",
+        "options": [
+          "Global reach",
+          "24/7 availability",
+          "Cost efficiency",
+          "All of the above"
+        ],
+        "user_answer": "All of the above",
+        "correct_answer": "All of the above",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "Which of the following is a disadvantage of E-Commerce?",
+        "options": [
+          "Security issues",
+          "Delivery delays",
+          "Lack of personal touch",
+          "All of the above"
+        ],
+        "user_answer": "All of the above",
+        "correct_answer": "All of the above",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "Scope of E-Commerce is mainly limited to:",
+        "options": [
+          "Local business only",
+          "Global business",
+          "Personal use only",
+          "Government only"
+        ],
+        "user_answer": "Global business",
+        "correct_answer": "Global business",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which model involves transactions between businesses and customers?",
+        "options": [
+          "B2B",
+          "C2C",
+          "B2C",
+          "G2G"
+        ],
+        "user_answer": "B2C",
+        "correct_answer": "B2C",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "In which model do customers sell directly to other customers?",
+        "options": [
+          "B2B",
+          "B2C",
+          "C2C",
+          "G2G"
+        ],
+        "user_answer": "C2C",
+        "correct_answer": "C2C",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "B2B stands for:",
+        "options": [
+          "Business to Business",
+          "Bank to Business",
+          "Business to Buyer",
+          "Buyer to Business"
+        ],
+        "user_answer": "Business to Business",
+        "correct_answer": "Business to Business",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which E-Commerce type is used for government-to-government data sharing?",
+        "options": [
+          "G2G",
+          "B2G",
+          "C2A",
+          "P2P"
+        ],
+        "user_answer": "G2G",
+        "correct_answer": "G2G",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which E-Commerce model involves individuals sharing files or services?",
+        "options": [
+          "B2B",
+          "P2P",
+          "B2C",
+          "B2G"
+        ],
+        "user_answer": "B2G",
+        "correct_answer": "P2P",
+        "is_correct": false,
+        "answer_number": "4"
+      },
+      {
+        "question": "Which of the following is public and accessible to all?",
+        "options": [
+          "Intranet",
+          "Internet",
+          "Extranet",
+          "LAN"
+        ],
+        "user_answer": "Internet",
+        "correct_answer": "Internet",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Intranet is used:",
+        "options": [
+          "For global communication",
+          "Inside an organization",
+          "Between governments",
+          "Between suppliers and customers"
+        ],
+        "user_answer": "Between governments",
+        "correct_answer": "Inside an organization",
+        "is_correct": false,
+        "answer_number": "3"
+      },
+      {
+        "question": "Extranet is mainly used for:",
+        "options": [
+          "Internal employees only",
+          "Suppliers, vendors, and partners",
+          "General public",
+          "Students only"
+        ],
+        "user_answer": "Suppliers, vendors, and partners",
+        "correct_answer": "Suppliers, vendors, and partners",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which is NOT an application of E-Commerce?",
+        "options": [
+          "Online shopping",
+          "Digital payments",
+          "Telecommunication manufacturing",
+          "Online auctions"
+        ],
+        "user_answer": "Telecommunication manufacturing",
+        "correct_answer": "Telecommunication manufacturing",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "Amazon, Flipkart are examples of:",
+        "options": [
+          "B2B",
+          "B2C",
+          "C2C",
+          "G2G"
+        ],
+        "user_answer": "B2C",
+        "correct_answer": "B2C",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "OLX, Quikr are examples of:",
+        "options": [
+          "B2B",
+          "B2C",
+          "C2C",
+          "B2G"
+        ],
+        "user_answer": "C2C",
+        "correct_answer": "C2C",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "Which of the following is a benefit of Internet in B2B?",
+        "options": [
+          "Reduced cost",
+          "Faster communication",
+          "Better supply chain management",
+          "All of the above"
+        ],
+        "user_answer": "All of the above",
+        "correct_answer": "All of the above",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "Which is NOT a web promotion method?",
+        "options": [
+          "Banner ads",
+          "Search engine optimization",
+          "Newspaper ads",
+          "Social media marketing"
+        ],
+        "user_answer": "Search engine optimization",
+        "correct_answer": "Newspaper ads",
+        "is_correct": false,
+        "answer_number": "2"
+      },
+      {
+        "question": "What is a banner in web promotion?",
+        "options": [
+          "Text ad in newspapers",
+          "Graphical web advertisement",
+          "Television ad",
+          "None"
+        ],
+        "user_answer": "Text ad in newspapers",
+        "correct_answer": "Graphical web advertisement",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "Shopping bots are used for:",
+        "options": [
+          "Comparing prices",
+          "Making payments",
+          "Sending spam emails",
+          "Web security"
+        ],
+        "user_answer": "Comparing prices",
+        "correct_answer": "Comparing prices",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Banner exchange refers to:",
+        "options": [
+          "Sharing website banners for promotion",
+          "Selling banners offline",
+          "Printing banners",
+          "Replacing banners with TV ads"
+        ],
+        "user_answer": "Replacing banners with TV ads",
+        "correct_answer": "Sharing website banners for promotion",
+        "is_correct": false,
+        "answer_number": "4"
+      },
+      {
+        "question": "What is an Electronic Payment System (EPS)?",
+        "options": [
+          "A manual system of cash handling",
+          "A system that uses electronic methods for transactions",
+          "Only online banking",
+          "Only ATM usage"
+        ],
+        "user_answer": "A system that uses electronic methods for transactions",
+        "correct_answer": "A system that uses electronic methods for transactions",
+        "is_correct": true,
+        "answer_number": "2"
+      }
+    ],
+    "timestamp": "2025-09-12T17:16:26.683766",
+    "warnings_count": 0,
+    "report_file": "abhisek_choudhary_report_20250912171626.pdf"
+  },
+  {
+    "user_info": {
+      "name": "Abhisek Choudhary",
+      "phone": "7439398980",
+      "stream": "Science ",
+      "unique_id": "AEU5BV"
+    },
+    "exam_type": "main_exam",
+    "questions_generated": [
+      "Who is credited with creating the Python programming language?",
+      "Python was officially released in which year?",
+      "Which of the following is a key characteristic of Python's design philosophy?",
+      "What is the primary feature that Python uses instead of curly braces {} to define code blocks?",
+      "What kind of programming language is Python primarily considered to be?",
+      "What does it mean for Python to be 'dynamically typed'?",
+      "What is the file extension for a Python source code file?",
+      "Which of these is a key feature of Python that allows it to run on different operating systems like Windows, macOS, and Linux?",
+      "What is the name of the command-line program used to execute a Python script?",
+      "Which of the following is not a common application area for Python?",
+      "What is the built-in function used to display output in Python?",
+      "How is a line of code commented out in Python?",
+      "What will the following code print? print('Hello')",
+      "In the program print('Hello, world!'), what is the string literal?",
+      "What would be the output of print(10)?",
+      "Which of the following is not a valid Python identifier (variable name)?",
+      "What is the purpose of the print() function's end parameter?",
+      "Which of the following statements is true about Python's standard library?",
+      "What is the correct way to write a single-line comment in Python?",
+      "What is the output of the following Python code? print('Python is ' + 'fun')",
+      "What is the key advantage of Python's simple syntax and readability?",
+      "What is the term for a block of code that is executed only when called?",
+      "What is a major reason why Python is popular in the field of Data Science?",
+      "Which of the following is an example of a comment in Python?",
+      "What is the output of the program if the code is print('hello') and saved as myprogram.py and executed using python myprogram.py?"
+    ],
+    "answers": [
+      {
+        "question": "Who is credited with creating the Python programming language?",
+        "options": [
+          "Guido van Rossum",
+          "Dennis Ritchie",
+          "James Gosling",
+          "Bjarne Stroustrup"
+        ],
+        "user_answer": "Guido van Rossum",
+        "correct_answer": "Guido van Rossum",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Python was officially released in which year?",
+        "options": [
+          "1985",
+          "1991",
+          "2000",
+          "2008"
+        ],
+        "user_answer": "1991",
+        "correct_answer": "1991",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which of the following is a key characteristic of Python's design philosophy?",
+        "options": [
+          "Readability and simplicity",
+          "High speed and performance",
+          "Strict memory management",
+          "Rigid syntax rules"
+        ],
+        "user_answer": "Readability and simplicity",
+        "correct_answer": "Readability and simplicity",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the primary feature that Python uses instead of curly braces {} to define code blocks?",
+        "options": [
+          "Indentation",
+          "Semicolons ;",
+          "Parentheses ()",
+          "Keywords like 'BEGIN' and 'END'"
+        ],
+        "user_answer": "Indentation",
+        "correct_answer": "Indentation",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What kind of programming language is Python primarily considered to be?",
+        "options": [
+          "Interpreted",
+          "Compiled",
+          "Assembly",
+          "Markup"
+        ],
+        "user_answer": "Interpreted",
+        "correct_answer": "Interpreted",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What does it mean for Python to be 'dynamically typed'?",
+        "options": [
+          "The type of a variable is checked at runtime",
+          "The type of a variable must be declared before it is used",
+          "Variables can only hold a single type of data",
+          "The program checks for type errors during compilation"
+        ],
+        "user_answer": "The type of a variable is checked at runtime",
+        "correct_answer": "The type of a variable is checked at runtime",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the file extension for a Python source code file?",
+        "options": [
+          ".py",
+          ".exe",
+          ".p",
+          ".doc"
+        ],
+        "user_answer": ".py",
+        "correct_answer": ".py",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of these is a key feature of Python that allows it to run on different operating systems like Windows, macOS, and Linux?",
+        "options": [
+          "Portability",
+          "Encapsulation",
+          "Polymorphism",
+          "Inheritance"
+        ],
+        "user_answer": "Portability",
+        "correct_answer": "Portability",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the name of the command-line program used to execute a Python script?",
+        "options": [
+          "python",
+          "run",
+          "execute",
+          "pyrun"
+        ],
+        "user_answer": "python",
+        "correct_answer": "python",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of the following is not a common application area for Python?",
+        "options": [
+          "High-performance mobile app development",
+          "Web development",
+          "Data science and machine learning",
+          "Game development"
+        ],
+        "user_answer": "High-performance mobile app development",
+        "correct_answer": "High-performance mobile app development",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the built-in function used to display output in Python?",
+        "options": [
+          "print()",
+          "display()",
+          "show()",
+          "output()"
+        ],
+        "user_answer": "print()",
+        "correct_answer": "print()",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "How is a line of code commented out in Python?",
+        "options": [
+          "Using the hash symbol #",
+          "Using double slashes //",
+          "Using 'rem' keyword",
+          "Using single quotes ''"
+        ],
+        "user_answer": "Using the hash symbol #",
+        "correct_answer": "Using the hash symbol #",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What will the following code print? print('Hello')",
+        "options": [
+          "Hello",
+          "'Hello'",
+          "Syntax Error",
+          "Nothing"
+        ],
+        "user_answer": "Hello",
+        "correct_answer": "Hello",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "In the program print('Hello, world!'), what is the string literal?",
+        "options": [
+          "'Hello, world!'",
+          "print",
+          "()",
+          "!"
+        ],
+        "user_answer": "'Hello, world!'",
+        "correct_answer": "'Hello, world!'",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What would be the output of print(10)?",
+        "options": [
+          "10",
+          "'10'",
+          "Error",
+          "Nothing"
+        ],
+        "user_answer": "10",
+        "correct_answer": "10",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of the following is not a valid Python identifier (variable name)?",
+        "options": [
+          "123_variable",
+          "my_variable",
+          "_variable",
+          "Variable1"
+        ],
+        "user_answer": "123_variable",
+        "correct_answer": "123_variable",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the purpose of the print() function's end parameter?",
+        "options": [
+          "To specify the character(s) to be printed at the end of the output",
+          "To specify the character(s) to be printed at the beginning of the output",
+          "To end the program's execution",
+          "To add a space after each item"
+        ],
+        "user_answer": "To specify the character(s) to be printed at the end of the output",
+        "correct_answer": "To specify the character(s) to be printed at the end of the output",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of the following statements is true about Python's standard library?",
+        "options": [
+          "It is a vast collection of modules and packages that come with the Python installation",
+          "It must be downloaded separately from the official website",
+          "It only contains modules for basic mathematical operations",
+          "It is not a part of Python's main features"
+        ],
+        "user_answer": "It is a vast collection of modules and packages that come with the Python installation",
+        "correct_answer": "It is a vast collection of modules and packages that come with the Python installation",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the correct way to write a single-line comment in Python?",
+        "options": [
+          "# This is a comment",
+          "// This is a comment",
+          "/* This is a comment */",
+          "-- This is a comment"
+        ],
+        "user_answer": "# This is a comment",
+        "correct_answer": "# This is a comment",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the output of the following Python code? print('Python is ' + 'fun')",
+        "options": [
+          "Python is fun",
+          "Python is + fun",
+          "PythonisFun",
+          "Syntax Error"
+        ],
+        "user_answer": "Python is fun",
+        "correct_answer": "Python is fun",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the key advantage of Python's simple syntax and readability?",
+        "options": [
+          "It makes the code easier to write, debug, and maintain",
+          "It makes the code run faster",
+          "It allows a programmer to use any variable name",
+          "It reduces the size of the program file"
+        ],
+        "user_answer": "It makes the code easier to write, debug, and maintain",
+        "correct_answer": "It makes the code easier to write, debug, and maintain",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the term for a block of code that is executed only when called?",
+        "options": [
+          "Function",
+          "Variable",
+          "Class",
+          "Statement"
+        ],
+        "user_answer": "Function",
+        "correct_answer": "Function",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is a major reason why Python is popular in the field of Data Science?",
+        "options": [
+          "It has a rich ecosystem of libraries like NumPy, Pandas, and Matplotlib",
+          "Its extremely fast execution speed",
+          "It is a statically typed language",
+          "Its lack of open-source libraries"
+        ],
+        "user_answer": "It has a rich ecosystem of libraries like NumPy, Pandas, and Matplotlib",
+        "correct_answer": "It has a rich ecosystem of libraries like NumPy, Pandas, and Matplotlib",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of the following is an example of a comment in Python?",
+        "options": [
+          "# This is a comment",
+          "This is a comment",
+          "// This is a comment",
+          "/* This is a comment */"
+        ],
+        "user_answer": "# This is a comment",
+        "correct_answer": "# This is a comment",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the output of the program if the code is print('hello') and saved as myprogram.py and executed using python myprogram.py?",
+        "options": [
+          "hello",
+          "myprogram.py",
+          "'hello'",
+          "Syntax Error"
+        ],
+        "user_answer": "hello",
+        "correct_answer": "hello",
+        "is_correct": true,
+        "answer_number": "1"
+      }
+    ],
+    "timestamp": "2025-09-13T06:58:09.379232",
+    "warnings_count": 0,
+    "report_file": "abhisek_choudhary_report_20250913065809.pdf"
+  },
+  {
+    "user_info": {
+      "name": "Abhisek Choudhary",
+      "phone": "7439398980",
+      "stream": "Science ",
+      "unique_id": "AEU5BV"
+    },
+    "exam_type": "main_exam",
+    "questions_generated": [
+      "What is the output of the program if the code is print('hello') and saved as myprogram.py and executed using python myprogram.py?",
+      "Which of these is a popular web framework written in Python?",
+      "What is the purpose of a multi-line string enclosed in triple quotes ('''...''' or \"\"\"...\"\"\")?",
+      "Which of the following describes Python's case sensitivity?",
+      "What is the common term for Python's ability to be used in various domains, from web development to scientific computing?",
+      "What is the output of print('hello' + ' world')?",
+      "What is the function of the Python interpreter?",
+      "In Python, which of the following is not a reserved keyword?",
+      "What is the result of print('Python' * 3)?",
+      "What is the purpose of the sep parameter in the print() function?",
+      "Which of these is a Python data type that can store a sequence of characters?",
+      "What happens if you omit the quotes around 'Hello, world!' in a print() statement, e.g., print(Hello, world!)?",
+      "Which of these features makes Python a high-level language?",
+      "What is the correct command to execute a Python file named my_first_program.py from the terminal?",
+      "Which of the following is an example of an IDE (Integrated Development Environment) for Python?",
+      "How do you create a simple 'Hello, world!' program in Python?",
+      "What is the main benefit of using a simple and clean language like Python?",
+      "Which of these is a Python feature that simplifies the development process?",
+      "What is the output of the following code? print('1' + '2')",
+      "What does 'cross-platform' mean in the context of Python?",
+      "Which of these is a Python feature that makes it suitable for scientific computing?",
+      "How do you create a newline in a string literal?",
+      "What is the output of print('hello', 'world')?",
+      "What does the term 'open-source' mean for a programming language like Python?",
+      "Which of these is a popular data structure in Python that is an ordered, changeable, and allows duplicate members?",
+      "What is the purpose of the indentation in Python?"
+    ],
+    "answers": [
+      {
+        "question": "What is the output of the program if the code is print('hello') and saved as myprogram.py and executed using python myprogram.py?",
+        "options": [
+          "hello",
+          "myprogram.py",
+          "'hello'",
+          "Syntax Error"
+        ],
+        "user_answer": "hello",
+        "correct_answer": "hello",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of these is a popular web framework written in Python?",
+        "options": [
+          "Django",
+          "Ruby on Rails",
+          "Laravel",
+          "Spring"
+        ],
+        "user_answer": "Django",
+        "correct_answer": "Django",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the purpose of a multi-line string enclosed in triple quotes ('''...''' or \"\"\"...\"\"\")?",
+        "options": [
+          "To serve as a multi-line comment or docstring",
+          "To create a list of strings",
+          "To create a special type of variable",
+          "To define a function"
+        ],
+        "user_answer": "To serve as a multi-line comment or docstring",
+        "correct_answer": "To serve as a multi-line comment or docstring",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of the following describes Python's case sensitivity?",
+        "options": [
+          "It is case-sensitive, so MyVariable and myvariable are different",
+          "It is not case-sensitive, so MyVariable and myvariable are the same",
+          "It is only case-sensitive for keywords",
+          "It is only case-sensitive for function names"
+        ],
+        "user_answer": "It is case-sensitive, so MyVariable and myvariable are different",
+        "correct_answer": "It is case-sensitive, so MyVariable and myvariable are different",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the common term for Python's ability to be used in various domains, from web development to scientific computing?",
+        "options": [
+          "Versatility",
+          "Complexity",
+          "Uniqueness",
+          "Rigidity"
+        ],
+        "user_answer": "Versatility",
+        "correct_answer": "Versatility",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the output of print('hello' + ' world')?",
+        "options": [
+          "hello world",
+          "helloworld",
+          "hello + world",
+          "SyntaxError"
+        ],
+        "user_answer": "hello world",
+        "correct_answer": "hello world",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the function of the Python interpreter?",
+        "options": [
+          "To execute Python code line by line",
+          "To convert Python code into an .exe file",
+          "To check for syntax errors before the program runs",
+          "To manage the hardware of the computer"
+        ],
+        "user_answer": "To execute Python code line by line",
+        "correct_answer": "To execute Python code line by line",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "In Python, which of the following is not a reserved keyword?",
+        "options": [
+          "main",
+          "if",
+          "for",
+          "class"
+        ],
+        "user_answer": "main",
+        "correct_answer": "main",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the result of print('Python' * 3)?",
+        "options": [
+          "PythonPythonPython",
+          "Python 3",
+          "Error",
+          "Python*3"
+        ],
+        "user_answer": "PythonPythonPython",
+        "correct_answer": "PythonPythonPython",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the purpose of the sep parameter in the print() function?",
+        "options": [
+          "To specify the separator between items printed",
+          "To separate the function name from its arguments",
+          "To create a newline after each item",
+          "To separate different program files"
+        ],
+        "user_answer": "To specify the separator between items printed",
+        "correct_answer": "To specify the separator between items printed",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of these is a Python data type that can store a sequence of characters?",
+        "options": [
+          "String",
+          "Integer",
+          "Boolean",
+          "Float"
+        ],
+        "user_answer": "String",
+        "correct_answer": "String",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What happens if you omit the quotes around 'Hello, world!' in a print() statement, e.g., print(Hello, world!)?",
+        "options": [
+          "A syntax error will occur",
+          "The program will print 'Hello, world!'",
+          "The program will crash without a message",
+          "The program will ask for user input"
+        ],
+        "user_answer": "A syntax error will occur",
+        "correct_answer": "A syntax error will occur",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of these features makes Python a high-level language?",
+        "options": [
+          "Its syntax is close to human language and is easy to understand",
+          "It requires the programmer to manage memory manually",
+          "It is written in binary code",
+          "It is dependent on a specific machine's architecture"
+        ],
+        "user_answer": "Its syntax is close to human language and is easy to understand",
+        "correct_answer": "Its syntax is close to human language and is easy to understand",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the correct command to execute a Python file named my_first_program.py from the terminal?",
+        "options": [
+          "python my_first_program.py",
+          "run my_first_program.py",
+          "execute my_first_program.py",
+          "py run my_first_program.py"
+        ],
+        "user_answer": "python my_first_program.py",
+        "correct_answer": "python my_first_program.py",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of the following is an example of an IDE (Integrated Development Environment) for Python?",
+        "options": [
+          "PyCharm",
+          "Notepad",
+          "Google Chrome",
+          "Microsoft Word"
+        ],
+        "user_answer": "PyCharm",
+        "correct_answer": "PyCharm",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "How do you create a simple 'Hello, world!' program in Python?",
+        "options": [
+          "print('Hello, world!')",
+          "console.log('Hello, world!')",
+          "cout << 'Hello, world!'",
+          "echo 'Hello, world!'"
+        ],
+        "user_answer": "print('Hello, world!')",
+        "correct_answer": "print('Hello, world!')",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the main benefit of using a simple and clean language like Python?",
+        "options": [
+          "It lowers the learning curve for new programmers",
+          "It makes it difficult to write complex programs",
+          "It only works on specific types of computers",
+          "It is not widely used in the industry"
+        ],
+        "user_answer": "It lowers the learning curve for new programmers",
+        "correct_answer": "It lowers the learning curve for new programmers",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of these is a Python feature that simplifies the development process?",
+        "options": [
+          "Its large and comprehensive standard library",
+          "Its need for explicit variable declarations",
+          "Its complex syntax",
+          "Its lack of third-party libraries"
+        ],
+        "user_answer": "Its large and comprehensive standard library",
+        "correct_answer": "Its large and comprehensive standard library",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the output of the following code? print('1' + '2')",
+        "options": [
+          "12",
+          "3",
+          "Error",
+          "'1'+'2'"
+        ],
+        "user_answer": "12",
+        "correct_answer": "12",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What does 'cross-platform' mean in the context of Python?",
+        "options": [
+          "Python code can run on different operating systems",
+          "Python can interact with different programming languages",
+          "Python can only be used for desktop applications",
+          "Python code needs to be rewritten for each operating system"
+        ],
+        "user_answer": "Python code can run on different operating systems",
+        "correct_answer": "Python code can run on different operating systems",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of these is a Python feature that makes it suitable for scientific computing?",
+        "options": [
+          "Its powerful mathematical libraries like NumPy and SciPy",
+          "Its lack of support for floating-point numbers",
+          "Its verbose and complex syntax",
+          "Its limited support for data structures"
+        ],
+        "user_answer": "Its powerful mathematical libraries like NumPy and SciPy",
+        "correct_answer": "Its powerful mathematical libraries like NumPy and SciPy",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "How do you create a newline in a string literal?",
+        "options": [
+          "Using the escape sequence \\n",
+          "Using a semicolon ;",
+          "Using the keyword newline",
+          "By pressing the Enter key"
+        ],
+        "user_answer": "Using the escape sequence \\n",
+        "correct_answer": "Using the escape sequence \\n",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the output of print('hello', 'world')?",
+        "options": [
+          "hello world",
+          "('hello', 'world')",
+          "helloworld",
+          "Error"
+        ],
+        "user_answer": "hello world",
+        "correct_answer": "hello world",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What does the term 'open-source' mean for a programming language like Python?",
+        "options": [
+          "Its source code is freely available and can be modified by anyone",
+          "It can only be used by developers working in a specific company",
+          "It is a new language that is still in development",
+          "It must be purchased before use"
+        ],
+        "user_answer": "Its source code is freely available and can be modified by anyone",
+        "correct_answer": "Its source code is freely available and can be modified by anyone",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of these is a popular data structure in Python that is an ordered, changeable, and allows duplicate members?",
+        "options": [
+          "List",
+          "Tuple",
+          "Set",
+          "Dictionary"
+        ],
+        "user_answer": "List",
+        "correct_answer": "List",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the purpose of the indentation in Python?",
+        "options": [
+          "To define the scope of a block of code",
+          "To make the code look visually appealing",
+          "To mark the end of a line of code",
+          "To prevent syntax errors"
+        ],
+        "user_answer": "To define the scope of a block of code",
+        "correct_answer": "To define the scope of a block of code",
+        "is_correct": true,
+        "answer_number": "1"
+      }
+    ],
+    "timestamp": "2025-09-13T07:04:40.033387",
+    "warnings_count": 0,
+    "report_file": "abhisek_choudhary_report_20250913070440.pdf"
+  },
+  {
+    "user_info": {
+      "name": "Abhisek Choudhary",
+      "phone": "7439398980",
+      "stream": "Science ",
+      "unique_id": "AEU5BV"
+    },
+    "exam_type": "main_exam",
+    "questions_generated": [
+      "What is the output of the program if the code is print('hello') and saved as myprogram.py and executed using python myprogram.py?",
+      "Which of these is a popular web framework written in Python?",
+      "What is the purpose of a multi-line string enclosed in triple quotes ('''...''' or \"\"\"...\"\"\")?",
+      "Which of the following describes Python's case sensitivity?",
+      "What is the common term for Python's ability to be used in various domains, from web development to scientific computing?",
+      "What is the output of print('hello' + ' world')?",
+      "What is the function of the Python interpreter?",
+      "In Python, which of the following is not a reserved keyword?",
+      "What is the result of print('Python' * 3)?",
+      "What is the purpose of the sep parameter in the print() function?",
+      "Which of these is a Python data type that can store a sequence of characters?",
+      "What happens if you omit the quotes around 'Hello, world!' in a print() statement, e.g., print(Hello, world!)?",
+      "Which of these features makes Python a high-level language?",
+      "What is the correct command to execute a Python file named my_first_program.py from the terminal?",
+      "Which of the following is an example of an IDE (Integrated Development Environment) for Python?",
+      "How do you create a simple 'Hello, world!' program in Python?",
+      "What is the main benefit of using a simple and clean language like Python?",
+      "Which of these is a Python feature that simplifies the development process?",
+      "What is the output of the following code? print('1' + '2')",
+      "What does 'cross-platform' mean in the context of Python?",
+      "Which of these is a Python feature that makes it suitable for scientific computing?",
+      "How do you create a newline in a string literal?",
+      "What is the output of print('hello', 'world')?",
+      "What does the term 'open-source' mean for a programming language like Python?",
+      "Which of these is a popular data structure in Python that is an ordered, changeable, and allows duplicate members?",
+      "What is the purpose of the indentation in Python?"
+    ],
+    "answers": [
+      {
+        "question": "What is the output of the program if the code is print('hello') and saved as myprogram.py and executed using python myprogram.py?",
+        "options": [
+          "Syntax Error",
+          "myprogram.py",
+          "hello",
+          "'hello'"
+        ],
+        "user_answer": "hello",
+        "correct_answer": "hello",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "Which of these is a popular web framework written in Python?",
+        "options": [
+          "Spring",
+          "Ruby on Rails",
+          "Laravel",
+          "Django"
+        ],
+        "user_answer": "Django",
+        "correct_answer": "Django",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "What is the purpose of a multi-line string enclosed in triple quotes ('''...''' or \"\"\"...\"\"\")?",
+        "options": [
+          "To create a special type of variable",
+          "To define a function",
+          "To create a list of strings",
+          "To serve as a multi-line comment or docstring"
+        ],
+        "user_answer": "To serve as a multi-line comment or docstring",
+        "correct_answer": "To serve as a multi-line comment or docstring",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "Which of the following describes Python's case sensitivity?",
+        "options": [
+          "It is only case-sensitive for keywords",
+          "It is case-sensitive, so MyVariable and myvariable are different",
+          "It is not case-sensitive, so MyVariable and myvariable are the same",
+          "It is only case-sensitive for function names"
+        ],
+        "user_answer": "It is case-sensitive, so MyVariable and myvariable are different",
+        "correct_answer": "It is case-sensitive, so MyVariable and myvariable are different",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "What is the common term for Python's ability to be used in various domains, from web development to scientific computing?",
+        "options": [
+          "Complexity",
+          "Uniqueness",
+          "Versatility",
+          "Rigidity"
+        ],
+        "user_answer": "Complexity",
+        "correct_answer": "Versatility",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the output of print('hello' + ' world')?",
+        "options": [
+          "hello + world",
+          "SyntaxError",
+          "hello world",
+          "helloworld"
+        ],
+        "user_answer": "helloworld",
+        "correct_answer": "hello world",
+        "is_correct": false,
+        "answer_number": "4"
+      },
+      {
+        "question": "What is the function of the Python interpreter?",
+        "options": [
+          "To execute Python code line by line",
+          "To convert Python code into an .exe file",
+          "To check for syntax errors before the program runs",
+          "To manage the hardware of the computer"
+        ],
+        "user_answer": "To execute Python code line by line",
+        "correct_answer": "To execute Python code line by line",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "In Python, which of the following is not a reserved keyword?",
+        "options": [
+          "if",
+          "for",
+          "class",
+          "main"
+        ],
+        "user_answer": "main",
+        "correct_answer": "main",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "What is the result of print('Python' * 3)?",
+        "options": [
+          "Python 3",
+          "Error",
+          "Python*3",
+          "PythonPythonPython"
+        ],
+        "user_answer": "PythonPythonPython",
+        "correct_answer": "PythonPythonPython",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "What is the purpose of the sep parameter in the print() function?",
+        "options": [
+          "To separate different program files",
+          "To specify the separator between items printed",
+          "To separate the function name from its arguments",
+          "To create a newline after each item"
+        ],
+        "user_answer": "To separate the function name from its arguments",
+        "correct_answer": "To specify the separator between items printed",
+        "is_correct": false,
+        "answer_number": "3"
+      },
+      {
+        "question": "Which of these is a Python data type that can store a sequence of characters?",
+        "options": [
+          "Float",
+          "Boolean",
+          "Integer",
+          "String"
+        ],
+        "user_answer": "String",
+        "correct_answer": "String",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "What happens if you omit the quotes around 'Hello, world!' in a print() statement, e.g., print(Hello, world!)?",
+        "options": [
+          "The program will crash without a message",
+          "A syntax error will occur",
+          "The program will print 'Hello, world!'",
+          "The program will ask for user input"
+        ],
+        "user_answer": "A syntax error will occur",
+        "correct_answer": "A syntax error will occur",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which of these features makes Python a high-level language?",
+        "options": [
+          "It requires the programmer to manage memory manually",
+          "Its syntax is close to human language and is easy to understand",
+          "It is written in binary code",
+          "It is dependent on a specific machine's architecture"
+        ],
+        "user_answer": "Its syntax is close to human language and is easy to understand",
+        "correct_answer": "Its syntax is close to human language and is easy to understand",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "What is the correct command to execute a Python file named my_first_program.py from the terminal?",
+        "options": [
+          "run my_first_program.py",
+          "python my_first_program.py",
+          "execute my_first_program.py",
+          "py run my_first_program.py"
+        ],
+        "user_answer": "python my_first_program.py",
+        "correct_answer": "python my_first_program.py",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which of the following is an example of an IDE (Integrated Development Environment) for Python?",
+        "options": [
+          "Google Chrome",
+          "Microsoft Word",
+          "Notepad",
+          "PyCharm"
+        ],
+        "user_answer": "PyCharm",
+        "correct_answer": "PyCharm",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "How do you create a simple 'Hello, world!' program in Python?",
+        "options": [
+          "print('Hello, world!')",
+          "console.log('Hello, world!')",
+          "cout << 'Hello, world!'",
+          "echo 'Hello, world!'"
+        ],
+        "user_answer": "print('Hello, world!')",
+        "correct_answer": "print('Hello, world!')",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the main benefit of using a simple and clean language like Python?",
+        "options": [
+          "It is not widely used in the industry",
+          "It only works on specific types of computers",
+          "It lowers the learning curve for new programmers",
+          "It makes it difficult to write complex programs"
+        ],
+        "user_answer": "It lowers the learning curve for new programmers",
+        "correct_answer": "It lowers the learning curve for new programmers",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "Which of these is a Python feature that simplifies the development process?",
+        "options": [
+          "Its large and comprehensive standard library",
+          "Its need for explicit variable declarations",
+          "Its complex syntax",
+          "Its lack of third-party libraries"
+        ],
+        "user_answer": "Its large and comprehensive standard library",
+        "correct_answer": "Its large and comprehensive standard library",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the output of the following code? print('1' + '2')",
+        "options": [
+          "3",
+          "'1'+'2'",
+          "12",
+          "Error"
+        ],
+        "user_answer": "12",
+        "correct_answer": "12",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "What does 'cross-platform' mean in the context of Python?",
+        "options": [
+          "Python can interact with different programming languages",
+          "Python code can run on different operating systems",
+          "Python code needs to be rewritten for each operating system",
+          "Python can only be used for desktop applications"
+        ],
+        "user_answer": "Python code can run on different operating systems",
+        "correct_answer": "Python code can run on different operating systems",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which of these is a Python feature that makes it suitable for scientific computing?",
+        "options": [
+          "Its powerful mathematical libraries like NumPy and SciPy",
+          "Its lack of support for floating-point numbers",
+          "Its verbose and complex syntax",
+          "Its limited support for data structures"
+        ],
+        "user_answer": "Its powerful mathematical libraries like NumPy and SciPy",
+        "correct_answer": "Its powerful mathematical libraries like NumPy and SciPy",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "How do you create a newline in a string literal?",
+        "options": [
+          "Using a semicolon ;",
+          "Using the escape sequence \\n",
+          "By pressing the Enter key",
+          "Using the keyword newline"
+        ],
+        "user_answer": "Using the escape sequence \\n",
+        "correct_answer": "Using the escape sequence \\n",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "What is the output of print('hello', 'world')?",
+        "options": [
+          "hello world",
+          "('hello', 'world')",
+          "helloworld",
+          "Error"
+        ],
+        "user_answer": "hello world",
+        "correct_answer": "hello world",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "What does the term 'open-source' mean for a programming language like Python?",
+        "options": [
+          "It must be purchased before use",
+          "It is a new language that is still in development",
+          "Its source code is freely available and can be modified by anyone",
+          "It can only be used by developers working in a specific company"
+        ],
+        "user_answer": "Its source code is freely available and can be modified by anyone",
+        "correct_answer": "Its source code is freely available and can be modified by anyone",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "Which of these is a popular data structure in Python that is an ordered, changeable, and allows duplicate members?",
+        "options": [
+          "Set",
+          "Tuple",
+          "List",
+          "Dictionary"
+        ],
+        "user_answer": "Dictionary",
+        "correct_answer": "List",
+        "is_correct": false,
+        "answer_number": "4"
+      },
+      {
+        "question": "What is the purpose of the indentation in Python?",
+        "options": [
+          "To make the code look visually appealing",
+          "To mark the end of a line of code",
+          "To define the scope of a block of code",
+          "To prevent syntax errors"
+        ],
+        "user_answer": "To define the scope of a block of code",
+        "correct_answer": "To define the scope of a block of code",
+        "is_correct": true,
+        "answer_number": "3"
+      }
+    ],
+    "timestamp": "2025-09-13T07:12:37.957969",
+    "warnings_count": 0,
+    "report_file": "abhisek_choudhary_report_20250913071237.pdf"
+  },
+  {
+    "user_info": {
+      "name": "Abhisek Choudhary",
+      "phone": "7439398980",
+      "stream": "Science ",
+      "unique_id": "AEU5BV"
+    },
+    "exam_type": "main_exam",
+    "questions_generated": [
+      "What is Interactive Mode in Python?",
+      "What is Script Mode in Python?",
+      "How do you enter Interactive Mode from the command line?",
+      "What is the prompt symbol for Python's Interactive Mode?",
+      "What is the main advantage of using Script Mode?",
+      "Which character set is the most common standard for Python 3?",
+      "What is a \"character set\"?",
+      "What is a Python \"token\"?",
+      "What are the five main types of Python tokens?",
+      "What is a Python \"keyword\"?",
+      "Which of the following is a Python keyword?",
+      "What is a Python \"identifier\"?",
+      "Which of the following is a valid Python identifier?",
+      "What is a Python \"literal\"?",
+      "In the statement x = 10, what is 10?",
+      "What is a Python \"operator\"?",
+      "In the expression a + b, what is +?",
+      "What is a Python \"punctuator\"?",
+      "In the statement print('Hello'), what are the parentheses ()?",
+      "Which of the following is NOT a Python token type?",
+      "What are the two main execution modes of Python?",
+      "Which mode is ideal for quick testing of small code snippets?",
+      "What is the process of creating a program file and running it called?",
+      "Which of these is a keyword in Python?",
+      "Which of these is NOT a Python keyword?"
+    ],
+    "answers": [
+      {
+        "question": "What is Interactive Mode in Python?",
+        "options": [
+          "A mode that only works for graphical user interfaces",
+          "A command-line interface for executing single statements and getting immediate results",
+          "A mode used for debugging existing code",
+          "A mode for writing long programs and saving them as files"
+        ],
+        "user_answer": "A command-line interface for executing single statements and getting immediate results",
+        "correct_answer": "A command-line interface for executing single statements and getting immediate results",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "What is Script Mode in Python?",
+        "options": [
+          "A mode for entering commands one-by-one",
+          "A mode for interactive data analysis",
+          "A mode for writing a complete program in a file and executing it later",
+          "A mode used only for simple calculations"
+        ],
+        "user_answer": "A mode for writing a complete program in a file and executing it later",
+        "correct_answer": "A mode for writing a complete program in a file and executing it later",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "How do you enter Interactive Mode from the command line?",
+        "options": [
+          "By double-clicking a .py file",
+          "By typing run",
+          "By typing python and pressing Enter",
+          "By typing python interactive"
+        ],
+        "user_answer": "By typing python and pressing Enter",
+        "correct_answer": "By typing python and pressing Enter",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "What is the prompt symbol for Python's Interactive Mode?",
+        "options": [
+          ">",
+          ">>>",
+          "$",
+          "_"
+        ],
+        "user_answer": ">>>",
+        "correct_answer": ">>>",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "What is the main advantage of using Script Mode?",
+        "options": [
+          "It is faster than Interactive Mode",
+          "It provides instant feedback for every command",
+          "The code is saved in a file and can be reused or modified",
+          "It does not require a text editor"
+        ],
+        "user_answer": "The code is saved in a file and can be reused or modified",
+        "correct_answer": "The code is saved in a file and can be reused or modified",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "Which character set is the most common standard for Python 3?",
+        "options": [
+          "ISO-8859-1",
+          "Unicode",
+          "ASCII",
+          "EBCDIC"
+        ],
+        "user_answer": "ISO-8859-1",
+        "correct_answer": "Unicode",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is a \"character set\"?",
+        "options": [
+          "A group of letters that can be used in a program",
+          "The alphabet used in a programming language",
+          "A set of characters and their corresponding numerical values",
+          "A special command for printing text"
+        ],
+        "user_answer": "A group of letters that can be used in a program",
+        "correct_answer": "A set of characters and their corresponding numerical values",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is a Python \"token\"?",
+        "options": [
+          "A keyword",
+          "The smallest individual unit in a program",
+          "A type of variable",
+          "A character in the Python character set"
+        ],
+        "user_answer": "The smallest individual unit in a program",
+        "correct_answer": "The smallest individual unit in a program",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "What are the five main types of Python tokens?",
+        "options": [
+          "Unicode, ASCII, EBCDIC, UTF-8",
+          "Numbers, Strings, Booleans, Lists, Tuples",
+          "Variables, Functions, Classes, Modules, Packages",
+          "Keywords, Identifiers, Literals, Operators, Punctuators"
+        ],
+        "user_answer": "Keywords, Identifiers, Literals, Operators, Punctuators",
+        "correct_answer": "Keywords, Identifiers, Literals, Operators, Punctuators",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "What is a Python \"keyword\"?",
+        "options": [
+          "The name of a variable or function",
+          "A symbol used for arithmetic operations",
+          "Any word used in a Python program",
+          "A reserved word with a special meaning to the interpreter"
+        ],
+        "user_answer": "A symbol used for arithmetic operations",
+        "correct_answer": "A reserved word with a special meaning to the interpreter",
+        "is_correct": false,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which of the following is a Python keyword?",
+        "options": [
+          "print",
+          "main",
+          "name",
+          "if"
+        ],
+        "user_answer": "if",
+        "correct_answer": "if",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "What is a Python \"identifier\"?",
+        "options": [
+          "A name given to a variable, function, class, or module",
+          "A symbol used to perform an action",
+          "A reserved word",
+          "A constant value"
+        ],
+        "user_answer": "A name given to a variable, function, class, or module",
+        "correct_answer": "A name given to a variable, function, class, or module",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of the following is a valid Python identifier?",
+        "options": [
+          "123variable",
+          "if",
+          "my-variable",
+          "my_variable"
+        ],
+        "user_answer": "my_variable",
+        "correct_answer": "my_variable",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "What is a Python \"literal\"?",
+        "options": [
+          "A symbol for an operation",
+          "A raw data value given in a variable or constant",
+          "The name of a variable",
+          "A reserved word"
+        ],
+        "user_answer": "A raw data value given in a variable or constant",
+        "correct_answer": "A raw data value given in a variable or constant",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "In the statement x = 10, what is 10?",
+        "options": [
+          "An operator",
+          "A keyword",
+          "A variable",
+          "An integer literal"
+        ],
+        "user_answer": "An integer literal",
+        "correct_answer": "An integer literal",
+        "is_correct": true,
+        "answer_number": "4"
+      },
+      {
+        "question": "What is a Python \"operator\"?",
+        "options": [
+          "A name for a variable",
+          "A symbol that performs an operation on one or more operands",
+          "A data value",
+          "A punctuation mark"
+        ],
+        "user_answer": "A symbol that performs an operation on one or more operands",
+        "correct_answer": "A symbol that performs an operation on one or more operands",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "In the expression a + b, what is +?",
+        "options": [
+          "A literal",
+          "An operator",
+          "A punctuator",
+          "A variable"
+        ],
+        "user_answer": "A punctuator",
+        "correct_answer": "An operator",
+        "is_correct": false,
+        "answer_number": "3"
+      },
+      {
+        "question": "What is a Python \"punctuator\"?",
+        "options": [
+          "A symbol used to organize sentence structure and syntax",
+          "A letter of the alphabet",
+          "A mathematical symbol",
+          "A number"
+        ],
+        "user_answer": "A mathematical symbol",
+        "correct_answer": "A symbol used to organize sentence structure and syntax",
+        "is_correct": false,
+        "answer_number": "3"
+      },
+      {
+        "question": "In the statement print('Hello'), what are the parentheses ()?",
+        "options": [
+          "Identifiers",
+          "Punctuators",
+          "Literals",
+          "Operators"
+        ],
+        "user_answer": "Literals",
+        "correct_answer": "Punctuators",
+        "is_correct": false,
+        "answer_number": "3"
+      },
+      {
+        "question": "Which of the following is NOT a Python token type?",
+        "options": [
+          "Keyword",
+          "Literal",
+          "Variable",
+          "Operator"
+        ],
+        "user_answer": "Variable",
+        "correct_answer": "Variable",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "What are the two main execution modes of Python?",
+        "options": [
+          "Command and Graphical",
+          "Online and Offline",
+          "Interactive and Script",
+          "Compiled and Interpreted"
+        ],
+        "user_answer": "Interactive and Script",
+        "correct_answer": "Interactive and Script",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "Which mode is ideal for quick testing of small code snippets?",
+        "options": [
+          "Batch Mode",
+          "Compiled Mode",
+          "Interactive Mode",
+          "Script Mode"
+        ],
+        "user_answer": "Interactive Mode",
+        "correct_answer": "Interactive Mode",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "What is the process of creating a program file and running it called?",
+        "options": [
+          "Compiling",
+          "Tokenization",
+          "Interactive Mode execution",
+          "Script Mode execution"
+        ],
+        "user_answer": "Compiling",
+        "correct_answer": "Script Mode execution",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of these is a keyword in Python?",
+        "options": [
+          "function",
+          "False",
+          "int",
+          "null"
+        ],
+        "user_answer": "False",
+        "correct_answer": "False",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which of these is NOT a Python keyword?",
+        "options": [
+          "class",
+          "return",
+          "try",
+          "System"
+        ],
+        "user_answer": "System",
+        "correct_answer": "System",
+        "is_correct": true,
+        "answer_number": "4"
+      }
+    ],
+    "timestamp": "2025-09-13T07:24:35.025379",
+    "warnings_count": 0,
+    "report_file": "abhisek_choudhary_report_20250913072435.pdf"
+  },
+  {
+    "user_info": {
+      "name": "Aditya Choudhary",
+      "phone": "9339044861",
+      "stream": "AI/ML",
+      "unique_id": "FKGN7S"
+    },
+    "exam_type": "main_exam",
+    "questions_generated": [
+      "What is Interactive Mode in Python?",
+      "What is Script Mode in Python?",
+      "How do you enter Interactive Mode from the command line?",
+      "What is the prompt symbol for Python's Interactive Mode?",
+      "What is the main advantage of using Script Mode?",
+      "Which character set is the most common standard for Python 3?",
+      "What is a \"character set\"?",
+      "What is a Python \"token\"?",
+      "What are the five main types of Python tokens?",
+      "What is a Python \"keyword\"?",
+      "Which of the following is a Python keyword?",
+      "What is a Python \"identifier\"?",
+      "Which of the following is a valid Python identifier?",
+      "What is a Python \"literal\"?",
+      "In the statement x = 10, what is 10?",
+      "What is a Python \"operator\"?",
+      "In the expression a + b, what is +?",
+      "What is a Python \"punctuator\"?",
+      "In the statement print('Hello'), what are the parentheses ()?",
+      "Which of the following is NOT a Python token type?",
+      "What are the two main execution modes of Python?",
+      "Which mode is ideal for quick testing of small code snippets?",
+      "What is the process of creating a program file and running it called?",
+      "Which of these is a keyword in Python?",
+      "Which of these is NOT a Python keyword?"
+    ],
+    "answers": [
+      {
+        "question": "What is Interactive Mode in Python?",
+        "options": [
+          "A mode that only works for graphical user interfaces",
+          "A command-line interface for executing single statements and getting immediate results",
+          "A mode used for debugging existing code",
+          "A mode for writing long programs and saving them as files"
+        ],
+        "user_answer": "A mode that only works for graphical user interfaces",
+        "correct_answer": "A command-line interface for executing single statements and getting immediate results",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is Script Mode in Python?",
+        "options": [
+          "A mode for entering commands one-by-one",
+          "A mode for interactive data analysis",
+          "A mode for writing a complete program in a file and executing it later",
+          "A mode used only for simple calculations"
+        ],
+        "user_answer": "A mode for entering commands one-by-one",
+        "correct_answer": "A mode for writing a complete program in a file and executing it later",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "How do you enter Interactive Mode from the command line?",
+        "options": [
+          "By double-clicking a .py file",
+          "By typing run",
+          "By typing python and pressing Enter",
+          "By typing python interactive"
+        ],
+        "user_answer": "By typing python and pressing Enter",
+        "correct_answer": "By typing python and pressing Enter",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "What is the prompt symbol for Python's Interactive Mode?",
+        "options": [
+          ">",
+          ">>>",
+          "$",
+          "_"
+        ],
+        "user_answer": ">>>",
+        "correct_answer": ">>>",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "What is the main advantage of using Script Mode?",
+        "options": [
+          "It is faster than Interactive Mode",
+          "It provides instant feedback for every command",
+          "The code is saved in a file and can be reused or modified",
+          "It does not require a text editor"
+        ],
+        "user_answer": "It is faster than Interactive Mode",
+        "correct_answer": "The code is saved in a file and can be reused or modified",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which character set is the most common standard for Python 3?",
+        "options": [
+          "ISO-8859-1",
+          "Unicode",
+          "ASCII",
+          "EBCDIC"
+        ],
+        "user_answer": "ISO-8859-1",
+        "correct_answer": "Unicode",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is a \"character set\"?",
+        "options": [
+          "A group of letters that can be used in a program",
+          "The alphabet used in a programming language",
+          "A set of characters and their corresponding numerical values",
+          "A special command for printing text"
+        ],
+        "user_answer": "A group of letters that can be used in a program",
+        "correct_answer": "A set of characters and their corresponding numerical values",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is a Python \"token\"?",
+        "options": [
+          "A keyword",
+          "The smallest individual unit in a program",
+          "A type of variable",
+          "A character in the Python character set"
+        ],
+        "user_answer": "A keyword",
+        "correct_answer": "The smallest individual unit in a program",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "What are the five main types of Python tokens?",
+        "options": [
+          "Unicode, ASCII, EBCDIC, UTF-8",
+          "Numbers, Strings, Booleans, Lists, Tuples",
+          "Variables, Functions, Classes, Modules, Packages",
+          "Keywords, Identifiers, Literals, Operators, Punctuators"
+        ],
+        "user_answer": "Unicode, ASCII, EBCDIC, UTF-8",
+        "correct_answer": "Keywords, Identifiers, Literals, Operators, Punctuators",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is a Python \"keyword\"?",
+        "options": [
+          "The name of a variable or function",
+          "A symbol used for arithmetic operations",
+          "Any word used in a Python program",
+          "A reserved word with a special meaning to the interpreter"
+        ],
+        "user_answer": "The name of a variable or function",
+        "correct_answer": "A reserved word with a special meaning to the interpreter",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of the following is a Python keyword?",
+        "options": [
+          "print",
+          "main",
+          "name",
+          "if"
+        ],
+        "user_answer": "main",
+        "correct_answer": "if",
+        "is_correct": false,
+        "answer_number": "2"
+      },
+      {
+        "question": "What is a Python \"identifier\"?",
+        "options": [
+          "A name given to a variable, function, class, or module",
+          "A symbol used to perform an action",
+          "A reserved word",
+          "A constant value"
+        ],
+        "user_answer": "A symbol used to perform an action",
+        "correct_answer": "A name given to a variable, function, class, or module",
+        "is_correct": false,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which of the following is a valid Python identifier?",
+        "options": [
+          "123variable",
+          "if",
+          "my-variable",
+          "my_variable"
+        ],
+        "user_answer": "123variable",
+        "correct_answer": "my_variable",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is a Python \"literal\"?",
+        "options": [
+          "A symbol for an operation",
+          "A raw data value given in a variable or constant",
+          "The name of a variable",
+          "A reserved word"
+        ],
+        "user_answer": "A raw data value given in a variable or constant",
+        "correct_answer": "A raw data value given in a variable or constant",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "In the statement x = 10, what is 10?",
+        "options": [
+          "An operator",
+          "A keyword",
+          "A variable",
+          "An integer literal"
+        ],
+        "user_answer": "A variable",
+        "correct_answer": "An integer literal",
+        "is_correct": false,
+        "answer_number": "3"
+      },
+      {
+        "question": "What is a Python \"operator\"?",
+        "options": [
+          "A name for a variable",
+          "A symbol that performs an operation on one or more operands",
+          "A data value",
+          "A punctuation mark"
+        ],
+        "user_answer": "A name for a variable",
+        "correct_answer": "A symbol that performs an operation on one or more operands",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "In the expression a + b, what is +?",
+        "options": [
+          "A literal",
+          "An operator",
+          "A punctuator",
+          "A variable"
+        ],
+        "user_answer": "An operator",
+        "correct_answer": "An operator",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "What is a Python \"punctuator\"?",
+        "options": [
+          "A symbol used to organize sentence structure and syntax",
+          "A letter of the alphabet",
+          "A mathematical symbol",
+          "A number"
+        ],
+        "user_answer": "A symbol used to organize sentence structure and syntax",
+        "correct_answer": "A symbol used to organize sentence structure and syntax",
+        "is_correct": true,
+        "answer_number": "1"
+      },
+      {
+        "question": "In the statement print('Hello'), what are the parentheses ()?",
+        "options": [
+          "Identifiers",
+          "Punctuators",
+          "Literals",
+          "Operators"
+        ],
+        "user_answer": "Identifiers",
+        "correct_answer": "Punctuators",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of the following is NOT a Python token type?",
+        "options": [
+          "Keyword",
+          "Literal",
+          "Variable",
+          "Operator"
+        ],
+        "user_answer": "Variable",
+        "correct_answer": "Variable",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "What are the two main execution modes of Python?",
+        "options": [
+          "Command and Graphical",
+          "Online and Offline",
+          "Interactive and Script",
+          "Compiled and Interpreted"
+        ],
+        "user_answer": "Online and Offline",
+        "correct_answer": "Interactive and Script",
+        "is_correct": false,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which mode is ideal for quick testing of small code snippets?",
+        "options": [
+          "Batch Mode",
+          "Compiled Mode",
+          "Interactive Mode",
+          "Script Mode"
+        ],
+        "user_answer": "Batch Mode",
+        "correct_answer": "Interactive Mode",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "What is the process of creating a program file and running it called?",
+        "options": [
+          "Compiling",
+          "Tokenization",
+          "Interactive Mode execution",
+          "Script Mode execution"
+        ],
+        "user_answer": "Compiling",
+        "correct_answer": "Script Mode execution",
+        "is_correct": false,
+        "answer_number": "1"
+      },
+      {
+        "question": "Which of these is a keyword in Python?",
+        "options": [
+          "function",
+          "False",
+          "int",
+          "null"
+        ],
+        "user_answer": "False",
+        "correct_answer": "False",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which of these is NOT a Python keyword?",
+        "options": [
+          "class",
+          "return",
+          "try",
+          "System"
+        ],
+        "user_answer": "class",
+        "correct_answer": "System",
+        "is_correct": false,
+        "answer_number": "1"
+      }
+    ],
+    "timestamp": "2025-09-17T14:56:27.256763",
+    "warnings_count": 4,
+    "report_file": "aditya_choudhary_report_20250917145627.pdf"
+  },
+  {
+    "user_info": {
+      "name": "Ritika",
+      "phone": "2316547897",
+      "stream": "AIML",
+      "unique_id": "YCEHHQ"
+    },
+    "questions_generated": [
+      "Which keyword is used to declare a constant variable in Java?",
+      "What is the purpose of the 'main' method in a Java program?",
+      "What does the 'System.out.println()' statement do in Java?",
+      "Which of the following is a valid data type in Java?",
+      "Which of the following is a comment in Java?"
+    ],
+    "answers": [
+      {
+        "question": "Which keyword is used to declare a constant variable in Java?",
+        "options": [
+          "static",
+          "const",
+          "final",
+          "constant"
+        ],
+        "user_answer": "final",
+        "correct_answer": "final",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "What is the purpose of the 'main' method in a Java program?",
+        "options": [
+          "To display a message on the screen",
+          "To define variables",
+          "To start the execution of the program",
+          "To import libraries"
+        ],
+        "user_answer": "To start the execution of the program",
+        "correct_answer": "To start the execution of the program",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "What does the 'System.out.println()' statement do in Java?",
+        "options": [
+          "Reads input from the keyboard",
+          "Prints output to the console",
+          "Declares a new variable",
+          "Defines a new class"
+        ],
+        "user_answer": "Prints output to the console",
+        "correct_answer": "Prints output to the console",
+        "is_correct": true,
+        "answer_number": "2"
+      },
+      {
+        "question": "Which of the following is a valid data type in Java?",
+        "options": [
+          "text",
+          "decimal",
+          "integer",
+          "string"
+        ],
+        "user_answer": "integer",
+        "correct_answer": "integer",
+        "is_correct": true,
+        "answer_number": "3"
+      },
+      {
+        "question": "Which of the following is a comment in Java?",
+        "options": [
+          "// This is a comment",
+          "# This is a comment",
+          "<!-- This is a comment -->",
+          "' This is a comment"
+        ],
+        "user_answer": "# This is a comment",
+        "correct_answer": "// This is a comment",
+        "is_correct": false,
+        "answer_number": "2"
+      }
+    ],
+    "timestamp": "2025-09-17T22:05:38.193906",
+    "exam_type": "self_exam",
+    "report_file": "ritika_report_20250917220538.pdf"
+  }
+]

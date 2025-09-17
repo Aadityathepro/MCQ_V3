@@ -1,0 +1,4466 @@
+[
+  {
+    "question": "Which of the following data structures follows the Last-In, First-Out (LIFO) principle?",
+    "options": [
+      "Queue",
+      "Array",
+      "Stack",
+      "Linked List"
+    ],
+    "correct_answer": "Stack",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which of the following is a linear data structure?",
+    "options": [
+      "Tree",
+      "Graph",
+      "Array",
+      "Heap"
+    ],
+    "correct_answer": "Array",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "What does FIFO stand for in the context of data structures?",
+    "options": [
+      "First In \u09ab\u09be\u09b0\u09cd\u09b8\u09cd\u099f Out",
+      "Fast Input Fast Output",
+      "File Input File Output",
+      "First Information First Output"
+    ],
+    "correct_answer": "First In \u09ab\u09be\u09b0\u09cd\u09b8\u09cd\u099f Out",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which data structure uses the LIFO (Last-In, First-Out) principle?",
+    "options": [
+      "Queue",
+      "Linked List",
+      "Stack",
+      "Tree"
+    ],
+    "correct_answer": "Stack",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which of the following is the correct way to declare an integer array of size 5 in C++?",
+    "options": [
+      "int array[5];",
+      "array int[5];",
+      "int array = new int[5];",
+      "array = int[5];"
+    ],
+    "correct_answer": "int array[5];",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which of the following data structures is most suitable for implementing a Least Recently Used (LRU) cache?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Hash Table with a Doubly Linked List",
+      "Binary Search Tree"
+    ],
+    "correct_answer": "Hash Table with a Doubly Linked List",
+    "Difficulty Level": "Intermediate",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is the time complexity of performing a Breadth-First Search (BFS) on a graph represented by an adjacency list, where V is the number of vertices and E is the number of edges?",
+    "options": [
+      "O(V)",
+      "O(E)",
+      "O(V + E)",
+      "O(V * E)"
+    ],
+    "correct_answer": "O(V + E)",
+    "Difficulty Level": "Intermediate",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which of the following sorting algorithms has the best worst-case time complexity?",
+    "options": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Merge Sort",
+      "Quick Sort"
+    ],
+    "correct_answer": "Merge Sort",
+    "Difficulty Level": "Intermediate",
+    "subject": "DSA"
+  },
+  {
+    "question": "In a binary search tree, which traversal method would output the nodes in sorted order?",
+    "options": [
+      "Preorder Traversal",
+      "Postorder Traversal",
+      "Inorder Traversal",
+      "Level Order Traversal"
+    ],
+    "correct_answer": "Inorder Traversal",
+    "Difficulty Level": "Intermediate",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which of the following is the most efficient data structure to determine if a cycle exists in a directed graph?",
+    "options": [
+      "Depth-First Search (DFS)",
+      "Breadth-First Search (BFS)",
+      "Priority Queue",
+      "Stack"
+    ],
+    "correct_answer": "Depth-First Search (DFS)",
+    "Difficulty Level": "Intermediate",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which of the following data structures is most suitable for implementing a Least Recently Used (LRU) cache?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Hash Table and Doubly Linked List",
+      "Binary Search Tree"
+    ],
+    "correct_answer": "Hash Table and Doubly Linked List",
+    "Difficulty Level": "Intermediate",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is the time complexity of searching for an element in a balanced Binary Search Tree (BST)?",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(log n)",
+      "O(1)"
+    ],
+    "correct_answer": "O(log n)",
+    "Difficulty Level": "Intermediate",
+    "subject": "DSA"
+  },
+  {
+    "question": "Consider a hash table with collision resolution by chaining. What is the average time complexity for an unsuccessful search, assuming uniform hashing and n elements stored in a table of size m?",
+    "options": [
+      "O(1)",
+      "O(m)",
+      "O(n/m)",
+      "O(n)"
+    ],
+    "correct_answer": "O(n/m)",
+    "Difficulty Level": "Intermediate",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which of the following sorting algorithms has the best worst-case time complexity?",
+    "options": [
+      "Bubble Sort",
+      "Quick Sort",
+      "Merge Sort",
+      "Insertion Sort"
+    ],
+    "correct_answer": "Merge Sort",
+    "Difficulty Level": "Intermediate",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which graph traversal algorithm uses a queue to manage the nodes to be visited?",
+    "options": [
+      "Depth-First Search (DFS)",
+      "Breadth-First Search (BFS)",
+      "Topological Sort",
+      "Prim's Algorithm"
+    ],
+    "correct_answer": "Breadth-First Search (BFS)",
+    "Difficulty Level": "Intermediate",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is the primary difference between a list and a tuple in Python?",
+    "options": [
+      "Lists are immutable, tuples are mutable",
+      "Lists are enclosed in parentheses, tuples in brackets",
+      "Lists are mutable, tuples are immutable",
+      "Tuples can only contain integers, lists can contain any data type"
+    ],
+    "correct_answer": "Lists are mutable, tuples are immutable",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "Which of the following is the correct way to open a file in Python for reading and writing in binary mode?",
+    "options": [
+      "open('file.txt', 'r+')",
+      "open('file.txt', 'wb+')",
+      "open('file.txt', 'rb+')",
+      "open('file.txt', 'rw')"
+    ],
+    "correct_answer": "open('file.txt', 'rb+')",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is the purpose of the `__init__` method in a Python class?",
+    "options": [
+      "To create a new instance of the class",
+      "To initialize the attributes of an object when it is created",
+      "To delete an object from memory",
+      "To define the class's docstring"
+    ],
+    "correct_answer": "To initialize the attributes of an object when it is created",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What does the `*args` syntax do in a Python function definition?",
+    "options": [
+      "It allows the function to accept a variable number of keyword arguments",
+      "It allows the function to accept a variable number of positional arguments",
+      "It forces the function to only accept arguments as a list",
+      "It creates a generator object."
+    ],
+    "correct_answer": "It allows the function to accept a variable number of positional arguments",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is a decorator in Python?",
+    "options": [
+      "A design pattern for creating flexible and reusable classes",
+      "A function that takes another function as an argument, adds some functionality, and returns the modified function",
+      "A way to make code more readable",
+      "A way to add comments to your code"
+    ],
+    "correct_answer": "A function that takes another function as an argument, adds some functionality, and returns the modified function",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "Which module is used to handle JSON data in Python?",
+    "options": [
+      "xml",
+      "json",
+      "pickle",
+      "csv"
+    ],
+    "correct_answer": "json",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is the purpose of the `finally` block in a `try-except` statement?",
+    "options": [
+      "It executes only if an exception is raised.",
+      "It executes only if no exception is raised.",
+      "It always executes, regardless of whether an exception is raised or not.",
+      "It allows you to define default values if an exception occurs"
+    ],
+    "correct_answer": "It always executes, regardless of whether an exception is raised or not.",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is a generator in Python?",
+    "options": [
+      "A function that returns a list of values.",
+      "A function that uses the `yield` keyword to return a sequence of values one at a time.",
+      "A class that is used to generate random numbers.",
+      "A module that is used to create graphical user interfaces."
+    ],
+    "correct_answer": "A function that uses the `yield` keyword to return a sequence of values one at a time.",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is the purpose of the `with` statement in Python?",
+    "options": [
+      "To simplify exception handling.",
+      "To automatically manage resources like files, ensuring they are properly closed.",
+      "To create a loop that iterates over a range of numbers.",
+      "To define a block of code that only executes if a condition is true."
+    ],
+    "correct_answer": "To automatically manage resources like files, ensuring they are properly closed.",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What does the `map()` function do in Python?",
+    "options": [
+      "Applies a function to each item in an iterable and returns a list of the results.",
+      "Filters an iterable based on a function.",
+      "Combines two or more iterables into a single iterable.",
+      "Sorts an iterable."
+    ],
+    "correct_answer": "Applies a function to each item in an iterable and returns a list of the results.",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is the output of `print(type(1/2))`?",
+    "options": [
+      "<class 'int'>",
+      "<class 'float'>",
+      "<class 'str'>",
+      "<class 'complex'>"
+    ],
+    "correct_answer": "<class 'float'>",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is the purpose of the `super()` function in Python?",
+    "options": [
+      "To call a method from a parent class.",
+      "To create a new object of a class.",
+      "To delete an object of a class.",
+      "To check if an object is an instance of a class."
+    ],
+    "correct_answer": "To call a method from a parent class.",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What does the `filter()` function do in Python?",
+    "options": [
+      "Applies a function to each item in an iterable.",
+      "Filters an iterable based on a function.",
+      "Sorts an iterable.",
+      "Reduces an iterable to a single value."
+    ],
+    "correct_answer": "Filters an iterable based on a function.",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "Which of the following statements about Python's garbage collection is true?",
+    "options": [
+      "Python does not have garbage collection.",
+      "Python uses manual memory management.",
+      "Python automatically manages memory using reference counting and a cycle-detecting garbage collector.",
+      "Python relies solely on the operating system for memory management."
+    ],
+    "correct_answer": "Python automatically manages memory using reference counting and a cycle-detecting garbage collector.",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is the purpose of the `pickle` module in Python?",
+    "options": [
+      "To convert Python objects into a string representation.",
+      "To serialize and deserialize Python object structures.",
+      "To perform mathematical operations.",
+      "To handle regular expressions."
+    ],
+    "correct_answer": "To serialize and deserialize Python object structures.",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is the output of `[i**2 for i in range(5) if i % 2 == 0]`?",
+    "options": [
+      "[0, 1, 4, 9, 16]",
+      "[0, 4, 16]",
+      "[1, 9, 25]",
+      "[0, 2, 4]"
+    ],
+    "correct_answer": "[0, 4, 16]",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "Which of the following is a mutable data type in Python?",
+    "options": [
+      "tuple",
+      "string",
+      "int",
+      "list"
+    ],
+    "correct_answer": "list",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is the difference between `==` and `is` in Python?",
+    "options": [
+      "`==` compares memory addresses, `is` compares values",
+      "`==` compares values, `is` compares memory addresses",
+      "They are interchangeable",
+      "`==` only works for integers, `is` works for all data types"
+    ],
+    "correct_answer": "`==` compares values, `is` compares memory addresses",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is the output of `print('hello'.upper())`?",
+    "options": [
+      "Hello",
+      "hello",
+      "HELLO",
+      "hELLo"
+    ],
+    "correct_answer": "HELLO",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "How can you install a Python package using pip?",
+    "options": [
+      "import package_name",
+      "pip install package_name",
+      "run package_name.install()",
+      "package_name.installPip()"
+    ],
+    "correct_answer": "pip install package_name",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "Which data structure would be most suitable to implement a Last-In-First-Out (LIFO) system?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Dictionary"
+    ],
+    "correct_answer": "Stack",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is the purpose of `__str__` method in a Python class?",
+    "options": [
+      "To define how the object should be initialized",
+      "To define how the object should be represented as a string",
+      "To define how the object should be compared to other objects",
+      "To define how the object should be deleted"
+    ],
+    "correct_answer": "To define how the object should be represented as a string",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is the difference between `append()` and `extend()` methods in Python lists?",
+    "options": [
+      "`append()` adds a single element to the end of the list, `extend()` adds multiple elements.",
+      "`append()` adds multiple elements to the end of the list, `extend()` adds a single element",
+      "`append()` creates a new list, `extend()` modifies the existing list",
+      "They are interchangeable"
+    ],
+    "correct_answer": "`append()` adds a single element to the end of the list, `extend()` adds multiple elements.",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What is a Namespace in python?",
+    "options": [
+      "A way to organize and reuse code",
+      "A naming system to avoid name collisions",
+      "A data structure used to store key-value pairs",
+      "A block of code that executes only once"
+    ],
+    "correct_answer": "A naming system to avoid name collisions",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "Which of these is a dunder (double underscore) method in python?",
+    "options": [
+      "len()",
+      "print()",
+      "__init__()",
+      "string()"
+    ],
+    "correct_answer": "__init__()",
+    "Difficulty Level": "Intermediate",
+    "subject": "Python"
+  },
+  {
+    "question": "What does BA usually stand for?",
+    "options": [
+      "Bachelor of Arts",
+      "Basic Accounting",
+      "Business Administration",
+      "Banking Association"
+    ],
+    "correct_answer": "Bachelor of Arts",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "Which of these is NOT a typical subject studied in BA?",
+    "options": [
+      "Literature",
+      "History",
+      "Mathematics",
+      "Sociology"
+    ],
+    "correct_answer": "Mathematics",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What is the main goal of Humanities studies?",
+    "options": [
+      "To understand the natural world",
+      "To understand human culture and society",
+      "To develop new technologies",
+      "To manage financial resources"
+    ],
+    "correct_answer": "To understand human culture and society",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "Which is a common skill developed through a BA degree?",
+    "options": [
+      "Coding",
+      "Welding",
+      "Critical Thinking",
+      "Accounting"
+    ],
+    "correct_answer": "Critical Thinking",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What is 'research' primarily about?",
+    "options": [
+      "Finding information quickly",
+      "Proving a point",
+      "Systematic investigation",
+      "Making assumptions"
+    ],
+    "correct_answer": "Systematic investigation",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What does 'qualitative research' mainly focus on?",
+    "options": [
+      "Numbers and statistics",
+      "In-depth understanding of experiences",
+      "Testing hypotheses",
+      "Large sample sizes"
+    ],
+    "correct_answer": "In-depth understanding of experiences",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What is 'Globalization'?",
+    "options": [
+      "The study of globes",
+      "Increasing interconnectedness of countries",
+      "Local community development",
+      "Focusing on one's own country"
+    ],
+    "correct_answer": "Increasing interconnectedness of countries",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "Which of the following is a type of essay?",
+    "options": [
+      "Novel",
+      "Poem",
+      "Narrative",
+      "Textbook"
+    ],
+    "correct_answer": "Narrative",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What is 'communication'?",
+    "options": [
+      "Talking to oneself",
+      "Exchanging information",
+      "Avoiding social interaction",
+      "Memorizing facts"
+    ],
+    "correct_answer": "Exchanging information",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "Which of these skills is useful for teamwork?",
+    "options": [
+      "Isolating oneself",
+      "Ignoring others' opinions",
+      "Collaboration",
+      "Being competitive"
+    ],
+    "correct_answer": "Collaboration",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What does 'analysis' mean?",
+    "options": [
+      "Ignoring details",
+      "Examining something closely",
+      "Accepting everything at face value",
+      "Making things up"
+    ],
+    "correct_answer": "Examining something closely",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What is 'culture'?",
+    "options": [
+      "Growing bacteria in a lab",
+      "Shared values and beliefs of a group",
+      "Specific type of food",
+      "Only the arts"
+    ],
+    "correct_answer": "Shared values and beliefs of a group",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What is a 'primary source'?",
+    "options": [
+      "A summary of an event",
+      "Information from a textbook",
+      "A firsthand account",
+      "Someone's opinion"
+    ],
+    "correct_answer": "A firsthand account",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What is a 'secondary source'?",
+    "options": [
+      "Original research data",
+      "An analysis of primary sources",
+      "A personal diary",
+      "An autobiography"
+    ],
+    "correct_answer": "An analysis of primary sources",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What is 'argumentation'?",
+    "options": [
+      "Disagreeing with everyone",
+      "Presenting reasons for a belief",
+      "Ignoring evidence",
+      "Making assumptions"
+    ],
+    "correct_answer": "Presenting reasons for a belief",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What is 'rhetoric'?",
+    "options": [
+      "The art of persuasive speaking or writing",
+      "Strict adherence to facts only",
+      "Speaking without thinking",
+      "Using complicated vocabulary"
+    ],
+    "correct_answer": "The art of persuasive speaking or writing",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What is the meaning of 'social sciences'?",
+    "options": [
+      "The study of the natural world",
+      "The study of human society and social relationships",
+      "The study of outer space",
+      "The study of ancient languages"
+    ],
+    "correct_answer": "The study of human society and social relationships",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What is a 'thesis statement'?",
+    "options": [
+      "A detailed summary of the entire essay",
+      "The main argument of an essay",
+      "A conclusion to the essay",
+      "An introductory sentence with no clear point"
+    ],
+    "correct_answer": "The main argument of an essay",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What is 'perspective'?",
+    "options": [
+      "A scientific measurement",
+      "A point of view",
+      "Ignoring other's opinions",
+      "Seeing only one side of an issue"
+    ],
+    "correct_answer": "A point of view",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What does 'cite' mean in academic writing?",
+    "options": [
+      "To ignore sources",
+      "To give credit to sources",
+      "To plagiarize information",
+      "To avoid research"
+    ],
+    "correct_answer": "To give credit to sources",
+    "Difficulty Level": "Beginner",
+    "subject": "BA"
+  },
+  {
+    "question": "What keyword is used to define a function in Python?",
+    "options": [
+      "function",
+      "def",
+      "define",
+      "fun"
+    ],
+    "correct_answer": "def",
+    "Difficulty Level": "Beginner",
+    "subject": "python"
+  },
+  {
+    "question": "Which of the following is NOT a valid data type in Python?",
+    "options": [
+      "Integer",
+      "Float",
+      "Character",
+      "Boolean"
+    ],
+    "correct_answer": "Character",
+    "Difficulty Level": "Beginner",
+    "subject": "python"
+  },
+  {
+    "question": "What does the 'print()' function do in Python?",
+    "options": [
+      "Takes user input",
+      "Displays output to the console",
+      "Performs mathematical calculations",
+      "Defines a variable"
+    ],
+    "correct_answer": "Displays output to the console",
+    "Difficulty Level": "Beginner",
+    "subject": "python"
+  },
+  {
+    "question": "Which operator is used for assignment in Python?",
+    "options": [
+      "==",
+      "=",
+      "+=",
+      "->"
+    ],
+    "correct_answer": "=",
+    "Difficulty Level": "Beginner",
+    "subject": "python"
+  },
+  {
+    "question": "What is the purpose of the 'if' statement in Python?",
+    "options": [
+      "To loop through a sequence",
+      "To define a function",
+      "To execute code based on a condition",
+      "To import a module"
+    ],
+    "correct_answer": "To execute code based on a condition",
+    "Difficulty Level": "Beginner",
+    "subject": "python"
+  },
+  {
+    "question": "What is a list in Python?",
+    "options": [
+      "A type of loop",
+      "An ordered, mutable sequence of items",
+      "A function for mathematical operations",
+      "A type of conditional statement"
+    ],
+    "correct_answer": "An ordered, mutable sequence of items",
+    "Difficulty Level": "Beginner",
+    "subject": "python"
+  },
+  {
+    "question": "How do you write a single-line comment in Python?",
+    "options": [
+      "// This is a comment",
+      "/* This is a comment */",
+      "# This is a comment",
+      "' This is a comment'"
+    ],
+    "correct_answer": "# This is a comment",
+    "Difficulty Level": "Beginner",
+    "subject": "python"
+  },
+  {
+    "question": "What will be the output of `print(2 + 2)`?",
+    "options": [
+      "22",
+      "4",
+      "Error",
+      "2+2"
+    ],
+    "correct_answer": "4",
+    "Difficulty Level": "Beginner",
+    "subject": "python"
+  },
+  {
+    "question": "What is the purpose of the `len()` function in Python?",
+    "options": [
+      "To print the length of a string",
+      "To calculate the area of a rectangle",
+      "To determine the length of a sequence (string, list, etc.)",
+      "To convert a string to lowercase"
+    ],
+    "correct_answer": "To determine the length of a sequence (string, list, etc.)",
+    "Difficulty Level": "Beginner",
+    "subject": "python"
+  },
+  {
+    "question": "Which of the following is used for string concatenation in Python?",
+    "options": [
+      "-",
+      "*",
+      "+",
+      "/"
+    ],
+    "correct_answer": "+",
+    "Difficulty Level": "Beginner",
+    "subject": "python"
+  },
+  {
+    "question": "What does 'eCommerce' stand for?",
+    "options": [
+      "Electronic Commerce",
+      "Entertainment Commerce",
+      "Educational Commerce",
+      "Easy Commerce"
+    ],
+    "correct_answer": "Electronic Commerce",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of the following is NOT a type of eCommerce business model?",
+    "options": [
+      "B2B",
+      "B2C",
+      "C2C",
+      "A2Z"
+    ],
+    "correct_answer": "A2Z",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is B2C eCommerce?",
+    "options": [
+      "Business to Business",
+      "Business to Consumer",
+      "Consumer to Consumer",
+      "Consumer to Business"
+    ],
+    "correct_answer": "Business to Consumer",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of these is a common online payment method?",
+    "options": [
+      "Postal Mail",
+      "Fax",
+      "Credit Card",
+      "Telegraph"
+    ],
+    "correct_answer": "Credit Card",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What does 'SEO' stand for?",
+    "options": [
+      "Search Engine Optimization",
+      "Sales Engine Operation",
+      "Secure Electronic Ordering",
+      "Simple Email Output"
+    ],
+    "correct_answer": "Search Engine Optimization",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'shopping cart' software used for?",
+    "options": [
+      "Designing websites",
+      "Managing inventory",
+      "Adding items to purchase online",
+      "Creating social media posts"
+    ],
+    "correct_answer": "Adding items to purchase online",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is a 'domain name'?",
+    "options": [
+      "A physical store address",
+      "The name of a product",
+      "An address for a website",
+      "A type of payment gateway"
+    ],
+    "correct_answer": "An address for a website",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'inventory management'?",
+    "options": [
+      "Managing website design",
+      "Tracking stock levels and orders",
+      "Creating marketing campaigns",
+      "Handling customer service"
+    ],
+    "correct_answer": "Tracking stock levels and orders",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What does 'SSL' stand for?",
+    "options": [
+      "Secure Socket Layer",
+      "Simple Secure Login",
+      "Standard System Language",
+      "Sales Service Link"
+    ],
+    "correct_answer": "Secure Socket Layer",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which is a popular eCommerce platform?",
+    "options": [
+      "Microsoft Word",
+      "Adobe Photoshop",
+      "Shopify",
+      "Excel"
+    ],
+    "correct_answer": "Shopify",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'dropshipping'?",
+    "options": [
+      "Shipping items directly to customers from the manufacturer",
+      "Shipping items to a personal address",
+      "Selling drops of water",
+      "A shipping company"
+    ],
+    "correct_answer": "Shipping items directly to customers from the manufacturer",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is a 'digital product'?",
+    "options": [
+      "A physical product sold online",
+      "An electronic product that can be downloaded",
+      "A product made of digital materials",
+      "A product with digital pricing"
+    ],
+    "correct_answer": "An electronic product that can be downloaded",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is a 'customer review'?",
+    "options": [
+      "A product description",
+      "Feedback from customers about a product or service",
+      "An advertisement",
+      "A sales report"
+    ],
+    "correct_answer": "Feedback from customers about a product or service",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'marketing' in eCommerce?",
+    "options": [
+      "The process of selling products in store",
+      "The process of promoting and selling products online",
+      "The process of managing inventory",
+      "The process of coding a website"
+    ],
+    "correct_answer": "The process of promoting and selling products online",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'conversion rate'?",
+    "options": [
+      "The rate at which products sell out",
+      "The percentage of website visitors who make a purchase",
+      "The rate at which products are shipped",
+      "The percentage of customers who leave a review"
+    ],
+    "correct_answer": "The percentage of website visitors who make a purchase",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'order fulfillment'?",
+    "options": [
+      "The process of designing a website",
+      "The process of receiving and shipping an order",
+      "The process of creating a marketing campaign",
+      "The process of managing customer service"
+    ],
+    "correct_answer": "The process of receiving and shipping an order",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'customer service'?",
+    "options": [
+      "Helping customers with their queries and issues",
+      "Creating website designs",
+      "Managing inventory",
+      "Developing marketing strategies"
+    ],
+    "correct_answer": "Helping customers with their queries and issues",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'mobile commerce' (mCommerce)?",
+    "options": [
+      "Selling mobile phones online",
+      "Conducting eCommerce transactions through mobile devices",
+      "Selling products related to mobile games",
+      "Creating mobile apps"
+    ],
+    "correct_answer": "Conducting eCommerce transactions through mobile devices",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'data analytics' used for in eCommerce?",
+    "options": [
+      "Designing website layouts",
+      "Analyzing customer behavior and improving sales",
+      "Managing customer service",
+      "Developing marketing campaigns"
+    ],
+    "correct_answer": "Analyzing customer behavior and improving sales",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is a 'payment gateway'?",
+    "options": [
+      "A type of shipping method",
+      "A system that processes online payments",
+      "A software for managing inventory",
+      "A tool for creating website designs"
+    ],
+    "correct_answer": "A system that processes online payments",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of these is an example of B2B eCommerce?",
+    "options": [
+      "Selling clothes directly to customers",
+      "A manufacturer selling parts to another business",
+      "An individual selling used items online",
+      "A business providing online tutoring"
+    ],
+    "correct_answer": "A manufacturer selling parts to another business",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'social media marketing'?",
+    "options": [
+      "Selling products in a physical store",
+      "Using social media platforms to promote products",
+      "Creating website designs",
+      "Managing customer service"
+    ],
+    "correct_answer": "Using social media platforms to promote products",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Retail Locator",
+      "Unlimited Resource Location",
+      "Unified Retail Location"
+    ],
+    "correct_answer": "Uniform Resource Locator",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of the following is a benefit of eCommerce for customers?",
+    "options": [
+      "Limited product selection",
+      "Convenience of shopping from home",
+      "Higher prices compared to physical stores",
+      "Difficulty in comparing prices"
+    ],
+    "correct_answer": "Convenience of shopping from home",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'affiliate marketing'?",
+    "options": [
+      "Selling products directly to customers",
+      "Promoting products for a commission",
+      "Creating website designs",
+      "Managing inventory"
+    ],
+    "correct_answer": "Promoting products for a commission",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'branding'?",
+    "options": [
+      "The design of a website",
+      "Creating a unique identity for a business",
+      "Managing inventory",
+      "Handling customer service"
+    ],
+    "correct_answer": "Creating a unique identity for a business",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is a 'coupon code'?",
+    "options": [
+      "A website design template",
+      "A code that gives a discount on a purchase",
+      "A shipping label",
+      "A customer review"
+    ],
+    "correct_answer": "A code that gives a discount on a purchase",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'email marketing'?",
+    "options": [
+      "Sending emails to promote products or services",
+      "Creating website designs",
+      "Managing inventory",
+      "Handling customer service"
+    ],
+    "correct_answer": "Sending emails to promote products or services",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'website hosting'?",
+    "options": [
+      "Creating website designs",
+      "Storing website files on a server",
+      "Managing inventory",
+      "Handling customer service"
+    ],
+    "correct_answer": "Storing website files on a server",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which is NOT a benefit of eCommerce for a business?",
+    "options": [
+      "Lower operating costs",
+      "Global reach",
+      "24/7 availability",
+      "Requirement of a physical store location"
+    ],
+    "correct_answer": "Requirement of a physical store location",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'personalization' in eCommerce?",
+    "options": [
+      "Creating standard website designs",
+      "Tailoring the customer experience based on their preferences",
+      "Managing inventory",
+      "Handling customer service"
+    ],
+    "correct_answer": "Tailoring the customer experience based on their preferences",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'customer segmentation'?",
+    "options": [
+      "Grouping customers based on shared characteristics",
+      "Creating website designs",
+      "Managing inventory",
+      "Handling customer service"
+    ],
+    "correct_answer": "Grouping customers based on shared characteristics",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'retargeting'?",
+    "options": [
+      "Targeting customers who have already visited your website",
+      "Creating a new website design",
+      "Managing inventory",
+      "Handling customer service"
+    ],
+    "correct_answer": "Targeting customers who have already visited your website",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'user experience' (UX)?",
+    "options": [
+      "The overall experience a customer has with a website or app",
+      "The process of creating website designs",
+      "Managing inventory",
+      "Handling customer service"
+    ],
+    "correct_answer": "The overall experience a customer has with a website or app",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'omnichannel' retailing?",
+    "options": [
+      "Selling only through one channel",
+      "Integrating all sales channels to create a unified customer experience",
+      "Only selling wholesale",
+      "Focusing only on mobile sales"
+    ],
+    "correct_answer": "Integrating all sales channels to create a unified customer experience",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is a 'cookie' in eCommerce?",
+    "options": [
+      "A sweet treat for customers",
+      "A small file stored on a user's computer to track their activity",
+      "A discount code",
+      "A type of shipping label"
+    ],
+    "correct_answer": "A small file stored on a user's computer to track their activity",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'A/B testing'?",
+    "options": [
+      "Testing two different website designs to see which performs better",
+      "Testing the quality of products",
+      "Testing the speed of shipping",
+      "Testing customer service response times"
+    ],
+    "correct_answer": "Testing two different website designs to see which performs better",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'chargeback'?",
+    "options": [
+      "A refund issued to a customer by their bank",
+      "A fee for using a credit card",
+      "A discount code",
+      "A shipping fee"
+    ],
+    "correct_answer": "A refund issued to a customer by their bank",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'cross-selling'?",
+    "options": [
+      "Selling the same product to multiple customers",
+      "Suggesting complementary products to a customer",
+      "Selling products at a lower price",
+      "Selling products internationally"
+    ],
+    "correct_answer": "Suggesting complementary products to a customer",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'up-selling'?",
+    "options": [
+      "Selling a higher-priced version of a product",
+      "Selling a lower-priced version of a product",
+      "Selling products at a discount",
+      "Selling products internationally"
+    ],
+    "correct_answer": "Selling a higher-priced version of a product",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'abandoned cart recovery'?",
+    "options": [
+      "Trying to convince customers to complete their purchase after they've left items in their cart",
+      "Deleting old product listings",
+      "Removing slow-moving products from inventory",
+      "Refunding customer orders"
+    ],
+    "correct_answer": "Trying to convince customers to complete their purchase after they've left items in their cart",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'return policy'?",
+    "options": [
+      "A set of rules governing how customers can return products",
+      "A website design template",
+      "A shipping label",
+      "A customer review"
+    ],
+    "correct_answer": "A set of rules governing how customers can return products",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'customer lifetime value' (CLTV)?",
+    "options": [
+      "The total revenue a customer is expected to generate throughout their relationship with a business",
+      "The price of a product",
+      "The cost of acquiring a new customer",
+      "The shipping cost for a product"
+    ],
+    "correct_answer": "The total revenue a customer is expected to generate throughout their relationship with a business",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What does 'CTA' stand for in eCommerce?",
+    "options": [
+      "Call To Action",
+      "Customer Transaction Agreement",
+      "Complete Transaction Audit",
+      "Creative Traffic Analysis"
+    ],
+    "correct_answer": "Call To Action",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of the following is NOT typically considered part of the eCommerce process?",
+    "options": [
+      "Product listing",
+      "Payment processing",
+      "Shipping and delivery",
+      "Manufacturing"
+    ],
+    "correct_answer": "Manufacturing",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'white labeling'?",
+    "options": [
+      "Selling generic products with your own branding",
+      "Selling exclusively white-colored products",
+      "Selling your brand to another company",
+      "Offering free shipping"
+    ],
+    "correct_answer": "Selling generic products with your own branding",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is a 'marketplace' in the context of eCommerce?",
+    "options": [
+      "A physical store selling multiple brands",
+      "An online platform where multiple sellers offer products",
+      "A farmers market",
+      "A stock market"
+    ],
+    "correct_answer": "An online platform where multiple sellers offer products",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of the following is NOT a key characteristic of B2C e-commerce?",
+    "options": [
+      "High transaction volume",
+      "Short sales cycle",
+      "Personalized customer experience",
+      "Complex negotiations"
+    ],
+    "correct_answer": "Complex negotiations",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is the primary purpose of an SSL certificate in e-commerce?",
+    "options": [
+      "To increase website loading speed",
+      "To encrypt data transmitted between the user and the server",
+      "To improve website SEO ranking",
+      "To verify the age of the website owner"
+    ],
+    "correct_answer": "To encrypt data transmitted between the user and the server",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of these metrics is most helpful in evaluating the effectiveness of an e-commerce marketing campaign?",
+    "options": [
+      "Page views",
+      "Bounce rate",
+      "Conversion rate",
+      "Session duration"
+    ],
+    "correct_answer": "Conversion rate",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is the 'long tail' in e-commerce referring to?",
+    "options": [
+      "A lengthy checkout process",
+      "A large number of unpopular products that collectively generate significant revenue",
+      "Extended customer service hours",
+      "Delayed shipping times"
+    ],
+    "correct_answer": "A large number of unpopular products that collectively generate significant revenue",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of the following is a common method for dealing with shopping cart abandonment?",
+    "options": [
+      "Reducing website security",
+      "Sending automated email reminders",
+      "Increasing product prices",
+      "Removing customer reviews"
+    ],
+    "correct_answer": "Sending automated email reminders",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is the difference between dropshipping and traditional e-commerce?",
+    "options": [
+      "Dropshipping requires physical storefronts",
+      "Dropshipping involves the seller managing inventory directly",
+      "Dropshipping involves the seller not holding any inventory",
+      "Dropshipping uses only physical products"
+    ],
+    "correct_answer": "Dropshipping involves the seller not holding any inventory",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which platform is MOST suitable for a small e-commerce business with limited technical expertise?",
+    "options": [
+      "Magento",
+      "Shopify",
+      "Salesforce Commerce Cloud",
+      "SAP Commerce Cloud"
+    ],
+    "correct_answer": "Shopify",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is the purpose of A/B testing in e-commerce?",
+    "options": [
+      "To test product durability",
+      "To compare two versions of a webpage or app to see which performs better",
+      "To audit financial records",
+      "To train customer service representatives"
+    ],
+    "correct_answer": "To compare two versions of a webpage or app to see which performs better",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of the following is a critical component of a good e-commerce website's user experience (UX)?",
+    "options": [
+      "Complex navigation",
+      "Slow loading speed",
+      "Clear call-to-actions",
+      "Excessive pop-up ads"
+    ],
+    "correct_answer": "Clear call-to-actions",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What does 'SEO' stand for in the context of e-commerce?",
+    "options": [
+      "Sales Engine Optimization",
+      "Search Engine Optimization",
+      "Social Engagement Optimization",
+      "System Error Override"
+    ],
+    "correct_answer": "Search Engine Optimization",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is a CDN (Content Delivery Network) used for in e-commerce?",
+    "options": [
+      "Managing customer relationships",
+      "Distributing website content across multiple servers for faster loading speeds",
+      "Handling payment processing",
+      "Creating website designs"
+    ],
+    "correct_answer": "Distributing website content across multiple servers for faster loading speeds",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'PCI DSS' compliance important for an e-commerce business?",
+    "options": [
+      "Website design",
+      "Product packaging",
+      "Data security of credit card information",
+      "Shipping logistics"
+    ],
+    "correct_answer": "Data security of credit card information",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of the following is an example of a personalized e-commerce experience?",
+    "options": [
+      "Showing the same products to all customers",
+      "Offering the same discounts to everyone",
+      "Recommending products based on past purchases",
+      "Displaying only the most popular items"
+    ],
+    "correct_answer": "Recommending products based on past purchases",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is affiliate marketing in e-commerce?",
+    "options": [
+      "Selling products directly to customers",
+      "Collaborating with other businesses to promote products and earn commission",
+      "Managing social media accounts",
+      "Designing website layouts"
+    ],
+    "correct_answer": "Collaborating with other businesses to promote products and earn commission",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is the purpose of retargeting ads in e-commerce?",
+    "options": [
+      "To show ads to people who have never visited the website",
+      "To show ads to people who have already visited the website but haven't made a purchase",
+      "To display ads on physical billboards",
+      "To hide ads from existing customers"
+    ],
+    "correct_answer": "To show ads to people who have already visited the website but haven't made a purchase",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of these is a challenge associated with international e-commerce?",
+    "options": [
+      "Simplified shipping logistics",
+      "Uniform tax regulations worldwide",
+      "Language barriers and cultural differences",
+      "Universal payment methods"
+    ],
+    "correct_answer": "Language barriers and cultural differences",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What does 'omnichannel' marketing refer to in e-commerce?",
+    "options": [
+      "Focusing solely on online sales",
+      "Integrating all marketing channels to provide a seamless customer experience",
+      "Ignoring physical stores",
+      "Using only one social media platform"
+    ],
+    "correct_answer": "Integrating all marketing channels to provide a seamless customer experience",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of the following is a key benefit of using customer relationship management (CRM) software in e-commerce?",
+    "options": [
+      "Automating inventory management",
+      "Improving customer service and personalization",
+      "Designing website templates",
+      "Processing payments"
+    ],
+    "correct_answer": "Improving customer service and personalization",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is the role of cookies in e-commerce?",
+    "options": [
+      "To bake virtual cookies for customers",
+      "To store information about user preferences and browsing history",
+      "To protect against viruses",
+      "To manage website security certificates"
+    ],
+    "correct_answer": "To store information about user preferences and browsing history",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is dynamic pricing in e-commerce?",
+    "options": [
+      "Offering a fixed price for all products",
+      "Adjusting prices based on market demand, competitor pricing, and other factors",
+      "Providing discounts to loyal customers only",
+      "Setting prices randomly"
+    ],
+    "correct_answer": "Adjusting prices based on market demand, competitor pricing, and other factors",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of the following is a common method for ensuring product authenticity in e-commerce?",
+    "options": [
+      "Ignoring customer reviews",
+      "Using blockchain technology",
+      "Selling counterfeit products",
+      "Avoiding customer feedback"
+    ],
+    "correct_answer": "Using blockchain technology",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is a 'heat map' used for in e-commerce website analytics?",
+    "options": [
+      "To measure website loading speed",
+      "To visualize user interaction on a webpage",
+      "To track sales conversions",
+      "To identify website security vulnerabilities"
+    ],
+    "correct_answer": "To visualize user interaction on a webpage",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of these strategies is MOST effective for building customer loyalty in e-commerce?",
+    "options": [
+      "Ignoring customer feedback",
+      "Providing poor customer service",
+      "Offering a loyalty program with exclusive benefits",
+      "Increasing prices frequently"
+    ],
+    "correct_answer": "Offering a loyalty program with exclusive benefits",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is the purpose of a 'chatbot' in e-commerce?",
+    "options": [
+      "To replace human customer service representatives entirely",
+      "To provide automated customer service and answer frequently asked questions",
+      "To design website graphics",
+      "To manage inventory levels"
+    ],
+    "correct_answer": "To provide automated customer service and answer frequently asked questions",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'headless commerce'?",
+    "options": [
+      "E-commerce without a website",
+      "Separating the front-end presentation layer from the back-end e-commerce functionality",
+      "E-commerce focused on headwear",
+      "A completely automated e-commerce system with no human intervention"
+    ],
+    "correct_answer": "Separating the front-end presentation layer from the back-end e-commerce functionality",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What does 'E' in E-commerce stand for?",
+    "options": [
+      "Easy",
+      "Electronic",
+      "Effective",
+      "Economical"
+    ],
+    "correct_answer": "Electronic",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of these is NOT a type of E-commerce?",
+    "options": [
+      "B2B",
+      "B2C",
+      "C2C",
+      "D2A"
+    ],
+    "correct_answer": "D2A",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What does B2C stand for?",
+    "options": [
+      "Business to Consumer",
+      "Business to Company",
+      "Buyer to Consumer",
+      "Buyer to Company"
+    ],
+    "correct_answer": "Business to Consumer",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of the following is a popular E-commerce platform?",
+    "options": [
+      "Microsoft Word",
+      "Instagram",
+      "Amazon",
+      "PowerPoint"
+    ],
+    "correct_answer": "Amazon",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is a 'shopping cart' in E-commerce?",
+    "options": [
+      "A physical cart in a store",
+      "A feature to store items for purchase",
+      "A list of favorite products",
+      "A discount coupon"
+    ],
+    "correct_answer": "A feature to store items for purchase",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of these is a common online payment method?",
+    "options": [
+      "Cheque",
+      "Cash",
+      "Credit Card",
+      "Postal Order"
+    ],
+    "correct_answer": "Credit Card",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'COD' in E-commerce?",
+    "options": [
+      "Cash on Delivery",
+      "Code on Delivery",
+      "Cash on Discount",
+      "Code of Discount"
+    ],
+    "correct_answer": "Cash on Delivery",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is a website's 'domain name'?",
+    "options": [
+      "The website's content",
+      "The website's address",
+      "The website's layout",
+      "The website's color scheme"
+    ],
+    "correct_answer": "The website's address",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": [
+      "Unique Resource Locator",
+      "Uniform Resource Locator",
+      "Universal Resource Locator",
+      "United Resource Locator"
+    ],
+    "correct_answer": "Uniform Resource Locator",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of these is a benefit of E-commerce for consumers?",
+    "options": [
+      "Limited product selection",
+      "Higher prices",
+      "Convenience",
+      "Limited shopping hours"
+    ],
+    "correct_answer": "Convenience",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'SEO' used for in E-commerce?",
+    "options": [
+      "Selling expensive objects",
+      "Search Engine Optimization",
+      "Selling electronic objects",
+      "Sending email offers"
+    ],
+    "correct_answer": "Search Engine Optimization",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'online marketing'?",
+    "options": [
+      "Selling goods in a store",
+      "Promoting products online",
+      "Buying products from a catalog",
+      "Attending trade shows"
+    ],
+    "correct_answer": "Promoting products online",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which is a common security measure for online payments?",
+    "options": [
+      "Using public Wi-Fi",
+      "Sharing your password",
+      "SSL encryption",
+      "Writing down your credit card number"
+    ],
+    "correct_answer": "SSL encryption",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'customer service' in E-commerce?",
+    "options": [
+      "Ignoring customer problems",
+      "Helping customers with their queries",
+      "Selling products at a higher price",
+      "Providing no support after a purchase"
+    ],
+    "correct_answer": "Helping customers with their queries",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'inventory management' in E-commerce?",
+    "options": [
+      "Managing stock levels",
+      "Selling only one type of product",
+      "Ignoring product expiry dates",
+      "Deleting old products"
+    ],
+    "correct_answer": "Managing stock levels",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of the following is a social media platform used for E-commerce marketing?",
+    "options": [
+      "Microsoft Excel",
+      "Zoom",
+      "Facebook",
+      "Adobe Photoshop"
+    ],
+    "correct_answer": "Facebook",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is meant by 'digital wallet'?",
+    "options": [
+      "A wallet made of digital fabric",
+      "An electronic way to store money",
+      "A physical wallet with a digital design",
+      "A collection of digital images"
+    ],
+    "correct_answer": "An electronic way to store money",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is a 'refund' in E-commerce?",
+    "options": [
+      "A new product launch",
+      "Returning money to a customer",
+      "A promotional discount",
+      "A shipping fee"
+    ],
+    "correct_answer": "Returning money to a customer",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is a 'cookie' on a website?",
+    "options": [
+      "A physical cookie",
+      "A small data file stored on a user's computer",
+      "A webpage design element",
+      "A type of online advertisement"
+    ],
+    "correct_answer": "A small data file stored on a user's computer",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What does C2C stand for?",
+    "options": [
+      "Customer to Customer",
+      "Company to Customer",
+      "Client to Customer",
+      "Cash to Customer"
+    ],
+    "correct_answer": "Customer to Customer",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'dropshipping' in E-commerce?",
+    "options": [
+      "Shipping products by drone",
+      "A business model where the seller doesn't keep products in stock",
+      "Shipping products for free",
+      "Selling only drop-shaped products"
+    ],
+    "correct_answer": "A business model where the seller doesn't keep products in stock",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'personalization' in E-commerce?",
+    "options": [
+      "Offering generic products",
+      "Tailoring the shopping experience to individual customers",
+      "Selling products with personal names on them",
+      "Ignoring customer preferences"
+    ],
+    "correct_answer": "Tailoring the shopping experience to individual customers",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is 'upselling' in E-commerce?",
+    "options": [
+      "Selling cheaper products",
+      "Encouraging customers to buy a more expensive item",
+      "Selling the same product at a lower price",
+      "Stopping customers from buying anything"
+    ],
+    "correct_answer": "Encouraging customers to buy a more expensive item",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is an 'affiliate program' in E-commerce?",
+    "options": [
+      "A program to sell products for a commission",
+      "A program for employees only",
+      "A program to give away free products",
+      "A government subsidy program"
+    ],
+    "correct_answer": "A program to sell products for a commission",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "What is the primary goal of an E-commerce business?",
+    "options": [
+      "To lose money",
+      "To sell products and services online",
+      "To ignore customer feedback",
+      "To operate without a website"
+    ],
+    "correct_answer": "To sell products and services online",
+    "Difficulty Level": "Beginner",
+    "subject": "Ecommerse"
+  },
+  {
+    "question": "Which of the following is NOT a common payment gateway used in E-commerce?",
+    "options": [
+      "PayPal",
+      "Stripe",
+      "Google Pay",
+      "MS Word"
+    ],
+    "correct_answer": "MS Word",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What does SEO primarily focus on in the context of E-commerce?",
+    "options": [
+      "Improving website design",
+      "Optimizing for search engine rankings",
+      "Managing social media accounts",
+      "Creating promotional videos"
+    ],
+    "correct_answer": "Optimizing for search engine rankings",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "Which of the following is a key benefit of using customer relationship management (CRM) in E-commerce?",
+    "options": [
+      "Reducing website loading time",
+      "Improving customer satisfaction and loyalty",
+      "Lowering operational costs",
+      "Eliminating the need for marketing"
+    ],
+    "correct_answer": "Improving customer satisfaction and loyalty",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What is 'abandoned cart' in the context of E-commerce?",
+    "options": [
+      "A cart that has been successfully checked out",
+      "A cart where the customer started checkout but didn't complete the purchase",
+      "A cart with damaged goods",
+      "A cart used for product testing"
+    ],
+    "correct_answer": "A cart where the customer started checkout but didn't complete the purchase",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "Which of the following is a digital marketing strategy commonly used in E-commerce?",
+    "options": [
+      "Cold calling",
+      "Telemarketing",
+      "Email marketing",
+      "Newspaper advertising"
+    ],
+    "correct_answer": "Email marketing",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What is the primary goal of A/B testing in E-commerce?",
+    "options": [
+      "Creating two identical versions of a product",
+      "Comparing two versions of a webpage to see which performs better",
+      "Testing the website security",
+      "Auditing the website for broken links"
+    ],
+    "correct_answer": "Comparing two versions of a webpage to see which performs better",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "Which of these e-commerce models is typically used for selling goods from one consumer directly to another?",
+    "options": [
+      "B2B",
+      "B2C",
+      "C2C",
+      "B2G"
+    ],
+    "correct_answer": "C2C",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What does 'SSL' stand for in the context of E-commerce security?",
+    "options": [
+      "Secure Socket Layer",
+      "Standard Security Login",
+      "System Service Language",
+      "Simple Storage Location"
+    ],
+    "correct_answer": "Secure Socket Layer",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "Which metric is most useful for measuring the overall success of an E-commerce website?",
+    "options": [
+      "Number of website visitors",
+      "Conversion rate",
+      "Social media followers",
+      "Number of pages on the website"
+    ],
+    "correct_answer": "Conversion rate",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What is dropshipping in e-commerce?",
+    "options": [
+      "Selling products at a discounted price",
+      "Storing inventory in a physical store",
+      "Selling products without holding any inventory yourself",
+      "Offering free shipping on all orders"
+    ],
+    "correct_answer": "Selling products without holding any inventory yourself",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "Which of the following is an example of 'personalization' in E-commerce?",
+    "options": [
+      "Offering standard discounts",
+      "Displaying products based on a customer's browsing history",
+      "Using generic greetings",
+      "Sending the same email to all customers"
+    ],
+    "correct_answer": "Displaying products based on a customer's browsing history",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What is meant by 'up-selling' in E-commerce?",
+    "options": [
+      "Selling outdated products",
+      "Offering a cheaper alternative",
+      "Persuading a customer to buy a more expensive version of what they intended to buy",
+      "Lowering the price of existing products"
+    ],
+    "correct_answer": "Persuading a customer to buy a more expensive version of what they intended to buy",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "Which of the following is an essential element of a good E-commerce product description?",
+    "options": [
+      "Vague descriptions",
+      "Missing price",
+      "High-quality images and detailed information",
+      "Only a product name"
+    ],
+    "correct_answer": "High-quality images and detailed information",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What does 'PCI DSS' stand for in the context of E-commerce?",
+    "options": [
+      "Payment Card Industry Data Security Standard",
+      "Product Category Index Data Sorting System",
+      "Personal Customer Information Data Storage System",
+      "Product Compliance Information Data Sharing System"
+    ],
+    "correct_answer": "Payment Card Industry Data Security Standard",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What is a 'cookie' in relation to E-commerce websites?",
+    "options": [
+      "A type of online advertisement",
+      "A small text file stored on a user's computer to remember preferences",
+      "A security protocol",
+      "A software program used to create websites"
+    ],
+    "correct_answer": "A small text file stored on a user's computer to remember preferences",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "Which of these is a common platform for building an E-commerce website?",
+    "options": [
+      "Microsoft Word",
+      "PowerPoint",
+      "Shopify",
+      "Excel"
+    ],
+    "correct_answer": "Shopify",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What is 'retargeting' in E-commerce marketing?",
+    "options": [
+      "Targeting a new market segment",
+      "Showing ads to users who have already visited your website",
+      "Redesigning the website layout",
+      "Refunding customers for returned items"
+    ],
+    "correct_answer": "Showing ads to users who have already visited your website",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What is the primary purpose of using analytics tools in E-commerce?",
+    "options": [
+      "To design website logos",
+      "To track website traffic and user behavior",
+      "To write product descriptions",
+      "To process payments"
+    ],
+    "correct_answer": "To track website traffic and user behavior",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "Which of the following is a factor that affects website loading speed?",
+    "options": [
+      "The color scheme of the website",
+      "The number of products offered",
+      "The size of images and videos on the website",
+      "The website's font size"
+    ],
+    "correct_answer": "The size of images and videos on the website",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What is affiliate marketing in the context of e-commerce?",
+    "options": [
+      "Selling products at a loss",
+      "Partnering with other websites or individuals to promote your products and earn commission",
+      "Creating fake reviews for your products",
+      "Ignoring customer feedback"
+    ],
+    "correct_answer": "Partnering with other websites or individuals to promote your products and earn commission",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What is 'supply chain management' in the context of E-commerce?",
+    "options": [
+      "Managing website design",
+      "Managing the flow of goods and information from suppliers to customers",
+      "Managing social media accounts",
+      "Managing email marketing campaigns"
+    ],
+    "correct_answer": "Managing the flow of goods and information from suppliers to customers",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What is 'm-commerce'?",
+    "options": [
+      "E-commerce involving the sale of machinery",
+      "E-commerce conducted through mobile devices",
+      "E-commerce focusing on music sales",
+      "E-commerce for medical products"
+    ],
+    "correct_answer": "E-commerce conducted through mobile devices",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "What is the purpose of a 'call to action' (CTA) button on an E-commerce website?",
+    "options": [
+      "To confuse the customer",
+      "To encourage a specific action from the user, like 'Buy Now' or 'Add to Cart'",
+      "To display contact information",
+      "To provide website navigation"
+    ],
+    "correct_answer": "To encourage a specific action from the user, like 'Buy Now' or 'Add to Cart'",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "Which of the following is an example of an 'exit-intent popup'?",
+    "options": [
+      "A popup that appears when a user adds an item to their cart",
+      "A popup that appears when a user is about to leave a website",
+      "A popup that appears when a user makes a purchase",
+      "A popup that appears when a user first visits a website"
+    ],
+    "correct_answer": "A popup that appears when a user is about to leave a website",
+    "Difficulty Level": "Intermediate",
+    "subject": "Ecommerse for class 12 student west Bengal"
+  },
+  {
+    "question": "Which of the following is the smallest unit of life?",
+    "options": [
+      "Organ",
+      "Tissue",
+      "Cell",
+      "System"
+    ],
+    "correct_answer": "Cell",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the main function of the respiratory system?",
+    "options": [
+      "Digestion",
+      "Circulation",
+      "Gas exchange",
+      "Excretion"
+    ],
+    "correct_answer": "Gas exchange",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "The heart belongs to which system?",
+    "options": [
+      "Digestive system",
+      "Respiratory system",
+      "Cardiovascular system",
+      "Nervous system"
+    ],
+    "correct_answer": "Cardiovascular system",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of these is a type of tissue?",
+    "options": [
+      "Stomach",
+      "Muscle",
+      "Brain",
+      "Heart"
+    ],
+    "correct_answer": "Muscle",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the function of bones?",
+    "options": [
+      "Produce hormones",
+      "Support and protection",
+      "Digest food",
+      "Transport oxygen"
+    ],
+    "correct_answer": "Support and protection",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which organ filters blood and produces urine?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Stomach",
+      "Pancreas"
+    ],
+    "correct_answer": "Kidney",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the name of the voice box?",
+    "options": [
+      "Esophagus",
+      "Larynx",
+      "Trachea",
+      "Pharynx"
+    ],
+    "correct_answer": "Larynx",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which part of the brain controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Brainstem",
+      "Thalamus"
+    ],
+    "correct_answer": "Cerebellum",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the function of the stomach?",
+    "options": [
+      "Absorb nutrients",
+      "Break down food",
+      "Produce bile",
+      "Store waste"
+    ],
+    "correct_answer": "Break down food",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is a major type of blood cell?",
+    "options": [
+      "Neuron",
+      "Osteocyte",
+      "Erythrocyte",
+      "Chondrocyte"
+    ],
+    "correct_answer": "Erythrocyte",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the main function of the small intestine?",
+    "options": [
+      "Water absorption",
+      "Nutrient absorption",
+      "Waste storage",
+      "Bile production"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which hormone regulates blood sugar levels?",
+    "options": [
+      "Estrogen",
+      "Testosterone",
+      "Insulin",
+      "Adrenaline"
+    ],
+    "correct_answer": "Insulin",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the basic structural unit of the nervous system?",
+    "options": [
+      "Nephron",
+      "Neuron",
+      "Alveoli",
+      "Capillary"
+    ],
+    "correct_answer": "Neuron",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which muscle is responsible for breathing?",
+    "options": [
+      "Biceps",
+      "Triceps",
+      "Diaphragm",
+      "Pectoralis"
+    ],
+    "correct_answer": "Diaphragm",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "The skin is part of what system?",
+    "options": [
+      "Skeletal System",
+      "Muscular System",
+      "Integumentary System",
+      "Endocrine System"
+    ],
+    "correct_answer": "Integumentary System",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the function of the large intestine?",
+    "options": [
+      "Nutrient absorption",
+      "Water absorption",
+      "Protein digestion",
+      "Fat digestion"
+    ],
+    "correct_answer": "Water absorption",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is a sense organ?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Kidney",
+      "Eye"
+    ],
+    "correct_answer": "Eye",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the function of red blood cells?",
+    "options": [
+      "Fight infection",
+      "Carry oxygen",
+      "Clot blood",
+      "Digest food"
+    ],
+    "correct_answer": "Carry oxygen",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the outer layer of the skin called?",
+    "options": [
+      "Dermis",
+      "Epidermis",
+      "Hypodermis",
+      "Melanin"
+    ],
+    "correct_answer": "Epidermis",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the main function of the liver?",
+    "options": [
+      "Filter blood",
+      "Produce insulin",
+      "Digest food",
+      "Produce bile"
+    ],
+    "correct_answer": "Produce bile",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is NOT a type of muscle tissue?",
+    "options": [
+      "Skeletal",
+      "Cardiac",
+      "Smooth",
+      "Epithelial"
+    ],
+    "correct_answer": "Epithelial",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the process by which the body maintains a stable internal environment?",
+    "options": [
+      "Metabolism",
+      "Digestion",
+      "Homeostasis",
+      "Respiration"
+    ],
+    "correct_answer": "Homeostasis",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the name of the tube that carries urine from the kidney to the bladder?",
+    "options": [
+      "Urethra",
+      "Ureter",
+      "Esophagus",
+      "Trachea"
+    ],
+    "correct_answer": "Ureter",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What type of joint is the knee?",
+    "options": [
+      "Hinge",
+      "Ball and Socket",
+      "Pivot",
+      "Gliding"
+    ],
+    "correct_answer": "Hinge",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which vitamin is produced in the skin when exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_answer": "Vitamin D",
+    "Difficulty Level": "Beginner",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following structures is primarily responsible for filtering the blood in the kidneys?",
+    "options": [
+      "Ureter",
+      "Nephron",
+      "Renal pelvis",
+      "Urinary bladder"
+    ],
+    "correct_answer": "Nephron",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "The neurotransmitter released at the neuromuscular junction that causes muscle contraction is:",
+    "options": [
+      "Dopamine",
+      "Serotonin",
+      "Acetylcholine",
+      "Norepinephrine"
+    ],
+    "correct_answer": "Acetylcholine",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the primary function of the sinoatrial (SA) node?",
+    "options": [
+      "To control ventricular contraction",
+      "To initiate the heart's electrical impulses",
+      "To relay signals from the AV node",
+      "To pump blood into the aorta"
+    ],
+    "correct_answer": "To initiate the heart's electrical impulses",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which hormone is primarily responsible for increasing blood glucose levels?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Calcitonin",
+      "Growth hormone"
+    ],
+    "correct_answer": "Glucagon",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "The process of gas exchange in the lungs occurs primarily in the:",
+    "options": [
+      "Trachea",
+      "Bronchi",
+      "Alveoli",
+      "Bronchioles"
+    ],
+    "correct_answer": "Alveoli",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which type of white blood cell is most abundant in the human body and plays a key role in phagocytosis?",
+    "options": [
+      "Basophils",
+      "Eosinophils",
+      "Neutrophils",
+      "Lymphocytes"
+    ],
+    "correct_answer": "Neutrophils",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the role of the epiglottis during swallowing?",
+    "options": [
+      "To secrete digestive enzymes",
+      "To close off the trachea",
+      "To stimulate peristalsis",
+      "To absorb nutrients"
+    ],
+    "correct_answer": "To close off the trachea",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is NOT a function of the liver?",
+    "options": [
+      "Bile production",
+      "Detoxification",
+      "Glycogen storage",
+      "Hormone production (Insulin)"
+    ],
+    "correct_answer": "Hormone production (Insulin)",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "The hormone that promotes water reabsorption in the kidneys is:",
+    "options": [
+      "Aldosterone",
+      "Atrial natriuretic peptide (ANP)",
+      "Antidiuretic hormone (ADH)",
+      "Calcitonin"
+    ],
+    "correct_answer": "Antidiuretic hormone (ADH)",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following structures connects muscles to bones?",
+    "options": [
+      "Ligaments",
+      "Tendons",
+      "Cartilage",
+      "Fascia"
+    ],
+    "correct_answer": "Tendons",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the function of the myelin sheath that surrounds some neurons?",
+    "options": [
+      "To provide structural support",
+      "To speed up the transmission of nerve impulses",
+      "To protect the neuron from damage",
+      "To produce neurotransmitters"
+    ],
+    "correct_answer": "To speed up the transmission of nerve impulses",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which valve prevents backflow of blood from the aorta into the left ventricle?",
+    "options": [
+      "Tricuspid valve",
+      "Mitral valve",
+      "Pulmonary valve",
+      "Aortic valve"
+    ],
+    "correct_answer": "Aortic valve",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "The functional unit of skeletal muscle responsible for contraction is the:",
+    "options": [
+      "Myofibril",
+      "Sarcomere",
+      "Sarcoplasmic reticulum",
+      "T-tubule"
+    ],
+    "correct_answer": "Sarcomere",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is NOT a component of blood plasma?",
+    "options": [
+      "Albumin",
+      "Globulins",
+      "Fibrinogen",
+      "Erythrocytes"
+    ],
+    "correct_answer": "Erythrocytes",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "The process of breaking down large food molecules into smaller, absorbable units is called:",
+    "options": [
+      "Absorption",
+      "Secretion",
+      "Digestion",
+      "Excretion"
+    ],
+    "correct_answer": "Digestion",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which part of the brain is responsible for balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Brainstem",
+      "Diencephalon"
+    ],
+    "correct_answer": "Cerebellum",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the primary function of the gallbladder?",
+    "options": [
+      "To produce bile",
+      "To store and concentrate bile",
+      "To secrete digestive enzymes",
+      "To absorb nutrients"
+    ],
+    "correct_answer": "To store and concentrate bile",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which type of tissue is characterized by tightly packed cells and is responsible for covering body surfaces?",
+    "options": [
+      "Connective tissue",
+      "Muscle tissue",
+      "Nervous tissue",
+      "Epithelial tissue"
+    ],
+    "correct_answer": "Epithelial tissue",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "The process by which bone is formed is known as:",
+    "options": [
+      "Osteolysis",
+      "Ossification",
+      "Resorption",
+      "Calcification"
+    ],
+    "correct_answer": "Ossification",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which layer of the epidermis contains melanocytes?",
+    "options": [
+      "Stratum basale",
+      "Stratum corneum",
+      "Stratum granulosum",
+      "Stratum lucidum"
+    ],
+    "correct_answer": "Stratum basale",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the function of the lymphatic system?",
+    "options": [
+      "Transporting oxygen",
+      "Filtering blood",
+      "Returning fluid to the bloodstream",
+      "Producing red blood cells"
+    ],
+    "correct_answer": "Returning fluid to the bloodstream",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is a fat-soluble vitamin?",
+    "options": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin A",
+      "Vitamin B1"
+    ],
+    "correct_answer": "Vitamin A",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the role of the parathyroid hormone (PTH)?",
+    "options": [
+      "Lower blood glucose levels",
+      "Increase calcium levels in the blood",
+      "Decrease calcium levels in the blood",
+      "Regulate sodium balance"
+    ],
+    "correct_answer": "Increase calcium levels in the blood",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is a function of the skin?",
+    "options": [
+      "Synthesis of vitamin B",
+      "Production of glucagon",
+      "Temperature regulation",
+      "Production of bile"
+    ],
+    "correct_answer": "Temperature regulation",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "The volume of air remaining in the lungs after a maximal exhalation is called the:",
+    "options": [
+      "Tidal volume",
+      "Vital capacity",
+      "Residual volume",
+      "Inspiratory reserve volume"
+    ],
+    "correct_answer": "Residual volume",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following structures is responsible for producing cerebrospinal fluid (CSF)?",
+    "options": [
+      "Arachnoid villi",
+      "Dura mater",
+      "Choroid plexus",
+      "Pia mater"
+    ],
+    "correct_answer": "Choroid plexus",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the primary function of the sinoatrial (SA) node?",
+    "options": [
+      "To delay the action potential between the atria and ventricles",
+      "To initiate the heart's electrical impulses",
+      "To repolarize the ventricles",
+      "To conduct the action potential to the Purkinje fibers"
+    ],
+    "correct_answer": "To initiate the heart's electrical impulses",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which type of epithelium lines the trachea and most of the upper respiratory tract?",
+    "options": [
+      "Simple squamous epithelium",
+      "Stratified squamous epithelium",
+      "Pseudostratified columnar epithelium",
+      "Transitional epithelium"
+    ],
+    "correct_answer": "Pseudostratified columnar epithelium",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the function of the enzyme pepsin?",
+    "options": [
+      "To emulsify fats in the small intestine",
+      "To break down proteins into smaller peptides in the stomach",
+      "To digest carbohydrates in the mouth",
+      "To absorb nutrients in the large intestine"
+    ],
+    "correct_answer": "To break down proteins into smaller peptides in the stomach",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which hormone is primarily responsible for regulating blood calcium levels by increasing osteoclast activity?",
+    "options": [
+      "Calcitonin",
+      "Parathyroid hormone",
+      "Insulin",
+      "Growth hormone"
+    ],
+    "correct_answer": "Parathyroid hormone",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the functional unit of the kidney?",
+    "options": [
+      "Ureter",
+      "Renal pelvis",
+      "Nephron",
+      "Glomerulus"
+    ],
+    "correct_answer": "Nephron",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following cells is responsible for producing antibodies?",
+    "options": [
+      "T helper cells",
+      "Cytotoxic T cells",
+      "B lymphocytes",
+      "Natural killer cells"
+    ],
+    "correct_answer": "B lymphocytes",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the main function of the myelin sheath?",
+    "options": [
+      "To increase the speed of nerve impulse transmission",
+      "To protect the neuron from physical damage",
+      "To provide nutrients to the neuron",
+      "To synthesize neurotransmitters"
+    ],
+    "correct_answer": "To increase the speed of nerve impulse transmission",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which muscle is primarily responsible for plantar flexion of the foot?",
+    "options": [
+      "Tibialis anterior",
+      "Gastrocnemius",
+      "Soleus",
+      "Biceps femoris"
+    ],
+    "correct_answer": "Gastrocnemius",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the function of ADH (antidiuretic hormone)?",
+    "options": [
+      "To increase blood glucose levels",
+      "To decrease water reabsorption in the kidneys",
+      "To increase sodium excretion",
+      "To increase water reabsorption in the kidneys"
+    ],
+    "correct_answer": "To increase water reabsorption in the kidneys",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is a characteristic of cardiac muscle tissue?",
+    "options": [
+      "Voluntary control",
+      "Multinucleated cells",
+      "Presence of intercalated discs",
+      "Lack of striations"
+    ],
+    "correct_answer": "Presence of intercalated discs",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the role of the gallbladder?",
+    "options": [
+      "To produce bile",
+      "To store and concentrate bile",
+      "To secrete digestive enzymes",
+      "To absorb nutrients"
+    ],
+    "correct_answer": "To store and concentrate bile",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is NOT a function of the liver?",
+    "options": [
+      "Production of bile",
+      "Regulation of blood glucose levels",
+      "Synthesis of clotting factors",
+      "Production of red blood cells"
+    ],
+    "correct_answer": "Production of red blood cells",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What type of joint is the knee joint?",
+    "options": [
+      "Hinge joint",
+      "Ball-and-socket joint",
+      "Pivot joint",
+      "Saddle joint"
+    ],
+    "correct_answer": "Hinge joint",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Where does fertilization typically occur in the female reproductive system?",
+    "options": [
+      "Uterus",
+      "Vagina",
+      "Ovary",
+      "Fallopian tube"
+    ],
+    "correct_answer": "Fallopian tube",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which part of the brain is responsible for regulating body temperature?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Hypothalamus",
+      "Medulla oblongata"
+    ],
+    "correct_answer": "Hypothalamus",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the function of surfactant in the lungs?",
+    "options": [
+      "To increase the surface tension of alveolar fluid",
+      "To reduce the surface tension of alveolar fluid",
+      "To stimulate coughing",
+      "To facilitate gas exchange in the bronchioles"
+    ],
+    "correct_answer": "To reduce the surface tension of alveolar fluid",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is a type of neuroglial cell?",
+    "options": [
+      "Neuron",
+      "Skeletal muscle cell",
+      "Erythrocyte",
+      "Astrocytes"
+    ],
+    "correct_answer": "Astrocytes",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the primary function of red bone marrow?",
+    "options": [
+      "Fat storage",
+      "Production of blood cells",
+      "Storage of calcium",
+      "Filtering of lymph"
+    ],
+    "correct_answer": "Production of blood cells",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the name of the structure that prevents food from entering the trachea during swallowing?",
+    "options": [
+      "Larynx",
+      "Esophagus",
+      "Epiglottis",
+      "Pharynx"
+    ],
+    "correct_answer": "Epiglottis",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which cranial nerve is responsible for transmitting visual information from the retina to the brain?",
+    "options": [
+      "Olfactory nerve (I)",
+      "Optic nerve (II)",
+      "Oculomotor nerve (III)",
+      "Trochlear nerve (IV)"
+    ],
+    "correct_answer": "Optic nerve (II)",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is a function of the lymphatic system?",
+    "options": [
+      "Transporting oxygen in the blood",
+      "Absorbing fats in the small intestine",
+      "Filtering and returning fluid to the bloodstream",
+      "Producing digestive enzymes"
+    ],
+    "correct_answer": "Filtering and returning fluid to the bloodstream",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the role of the hormone erythropoietin (EPO)?",
+    "options": [
+      "Stimulates the production of white blood cells",
+      "Stimulates the production of red blood cells",
+      "Regulates blood glucose levels",
+      "Regulates blood calcium levels"
+    ],
+    "correct_answer": "Stimulates the production of red blood cells",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "During muscle contraction, what molecule does calcium bind to?",
+    "options": [
+      "Actin",
+      "Myosin",
+      "Tropomyosin",
+      "Troponin"
+    ],
+    "correct_answer": "Troponin",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which type of gland secretes hormones directly into the bloodstream?",
+    "options": [
+      "Exocrine gland",
+      "Endocrine gland",
+      "Sebaceous gland",
+      "Sweat gland"
+    ],
+    "correct_answer": "Endocrine gland",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What does HAP stand for?",
+    "options": [
+      "Human Anatomy Physiology",
+      "Health and Prevention",
+      "Human Action Potential",
+      "Homeostasis and Practice"
+    ],
+    "correct_answer": "Human Anatomy Physiology",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which of the following is the smallest unit of life?",
+    "options": [
+      "Organ",
+      "Cell",
+      "Tissue",
+      "Organ System"
+    ],
+    "correct_answer": "Cell",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the study of the structure of the body called?",
+    "options": [
+      "Physiology",
+      "Anatomy",
+      "Pathology",
+      "Histology"
+    ],
+    "correct_answer": "Anatomy",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which system is responsible for transporting oxygen in the body?",
+    "options": [
+      "Digestive System",
+      "Respiratory System",
+      "Cardiovascular System",
+      "Nervous System"
+    ],
+    "correct_answer": "Cardiovascular System",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the main function of the respiratory system?",
+    "options": [
+      "Digestion",
+      "Circulation",
+      "Gas Exchange",
+      "Waste Removal"
+    ],
+    "correct_answer": "Gas Exchange",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which organ is responsible for filtering blood and producing urine?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Stomach"
+    ],
+    "correct_answer": "Kidney",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the basic unit of the nervous system?",
+    "options": [
+      "Muscle Fiber",
+      "Nephron",
+      "Neuron",
+      "Hepatocyte"
+    ],
+    "correct_answer": "Neuron",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which type of tissue covers surfaces and lines body cavities?",
+    "options": [
+      "Connective Tissue",
+      "Muscle Tissue",
+      "Nervous Tissue",
+      "Epithelial Tissue"
+    ],
+    "correct_answer": "Epithelial Tissue",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the name of the bone in the upper arm?",
+    "options": [
+      "Femur",
+      "Tibia",
+      "Humerus",
+      "Radius"
+    ],
+    "correct_answer": "Humerus",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which muscle is primarily responsible for breathing?",
+    "options": [
+      "Biceps",
+      "Triceps",
+      "Diaphragm",
+      "Pectoralis Major"
+    ],
+    "correct_answer": "Diaphragm",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the process of maintaining a stable internal environment called?",
+    "options": [
+      "Metabolism",
+      "Homeostasis",
+      "Respiration",
+      "Digestion"
+    ],
+    "correct_answer": "Homeostasis",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which of these is a type of connective tissue?",
+    "options": [
+      "Epidermis",
+      "Muscle Fiber",
+      "Bone",
+      "Nerve"
+    ],
+    "correct_answer": "Bone",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the function of red blood cells?",
+    "options": [
+      "Fighting infection",
+      "Clotting blood",
+      "Transporting oxygen",
+      "Digesting food"
+    ],
+    "correct_answer": "Transporting oxygen",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which gland produces insulin?",
+    "options": [
+      "Thyroid gland",
+      "Adrenal gland",
+      "Pancreas",
+      "Pituitary gland"
+    ],
+    "correct_answer": "Pancreas",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Heart",
+      "Skin"
+    ],
+    "correct_answer": "Skin",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "The stomach is part of which body system?",
+    "options": [
+      "Respiratory",
+      "Circulatory",
+      "Digestive",
+      "Nervous"
+    ],
+    "correct_answer": "Digestive",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the primary function of the small intestine?",
+    "options": [
+      "Water absorption",
+      "Nutrient absorption",
+      "Waste elimination",
+      "Protein digestion"
+    ],
+    "correct_answer": "Nutrient absorption",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which part of the brain controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Brainstem",
+      "Thalamus"
+    ],
+    "correct_answer": "Cerebellum",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the function of the white blood cells?",
+    "options": [
+      "Carrying oxygen",
+      "Fighting infection",
+      "Clotting blood",
+      "Producing hormones"
+    ],
+    "correct_answer": "Fighting infection",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the name of the largest artery in the body?",
+    "options": [
+      "Capillary",
+      "Vena Cava",
+      "Aorta",
+      "Pulmonary Artery"
+    ],
+    "correct_answer": "Aorta",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Where does fertilization typically occur in the female reproductive system?",
+    "options": [
+      "Uterus",
+      "Ovary",
+      "Vagina",
+      "Fallopian tube"
+    ],
+    "correct_answer": "Fallopian tube",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which of the following is a type of joint?",
+    "options": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Hinge joint"
+    ],
+    "correct_answer": "Hinge joint",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What process provides energy to cells?",
+    "options": [
+      "Photosynthesis",
+      "Cellular Respiration",
+      "Translation",
+      "Replication"
+    ],
+    "correct_answer": "Cellular Respiration",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the name for the voice box?",
+    "options": [
+      "Trachea",
+      "Larynx",
+      "Pharynx",
+      "Esophagus"
+    ],
+    "correct_answer": "Larynx",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the study of diseases called?",
+    "options": [
+      "Anatomy",
+      "Physiology",
+      "Pathology",
+      "Pharmacology"
+    ],
+    "correct_answer": "Pathology",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What does HAP stand for?",
+    "options": [
+      "Human Anatomy and Physiology",
+      "Human Anatomy Practice",
+      "Holistic Anatomy and Physiology",
+      "Human and Animal Physiology"
+    ],
+    "correct_answer": "Human Anatomy and Physiology",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which of these is NOT a basic tissue type?",
+    "options": [
+      "Epithelial",
+      "Connective",
+      "Muscular",
+      "Skeletal"
+    ],
+    "correct_answer": "Skeletal",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the smallest structural and functional unit of the body?",
+    "options": [
+      "Organ",
+      "Tissue",
+      "Cell",
+      "System"
+    ],
+    "correct_answer": "Cell",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which system is responsible for transporting oxygen in the body?",
+    "options": [
+      "Digestive system",
+      "Respiratory system",
+      "Circulatory system",
+      "Nervous system"
+    ],
+    "correct_answer": "Circulatory system",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "The heart is located in which cavity?",
+    "options": [
+      "Abdominal cavity",
+      "Cranial cavity",
+      "Thoracic cavity",
+      "Pelvic cavity"
+    ],
+    "correct_answer": "Thoracic cavity",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the function of the skeletal system?",
+    "options": [
+      "Movement only",
+      "Support and protection only",
+      "Support, protection, and movement",
+      "Digestion"
+    ],
+    "correct_answer": "Support, protection, and movement",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which organ filters blood and produces urine?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Heart",
+      "Lungs"
+    ],
+    "correct_answer": "Kidney",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "The brain is part of which system?",
+    "options": [
+      "Endocrine system",
+      "Respiratory system",
+      "Nervous system",
+      "Digestive system"
+    ],
+    "correct_answer": "Nervous system",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the main function of the respiratory system?",
+    "options": [
+      "Digestion",
+      "Circulation",
+      "Gas exchange",
+      "Excretion"
+    ],
+    "correct_answer": "Gas exchange",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which of the following is a type of muscle tissue?",
+    "options": [
+      "Bone",
+      "Cartilage",
+      "Smooth",
+      "Blood"
+    ],
+    "correct_answer": "Smooth",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which of the following is NOT a bone in the arm?",
+    "options": [
+      "Humerus",
+      "Radius",
+      "Ulna",
+      "Tibia"
+    ],
+    "correct_answer": "Tibia",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the function of the stomach?",
+    "options": [
+      "Absorbing nutrients",
+      "Storing bile",
+      "Breaking down food",
+      "Filtering blood"
+    ],
+    "correct_answer": "Breaking down food",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which gland produces insulin?",
+    "options": [
+      "Thyroid gland",
+      "Adrenal gland",
+      "Pancreas",
+      "Pituitary gland"
+    ],
+    "correct_answer": "Pancreas",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which of these is part of the integumentary system?",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Skin",
+      "Brain"
+    ],
+    "correct_answer": "Skin",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the process of maintaining a stable internal environment called?",
+    "options": [
+      "Digestion",
+      "Respiration",
+      "Homeostasis",
+      "Excretion"
+    ],
+    "correct_answer": "Homeostasis",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "The shoulder joint connects the humerus to which bone?",
+    "options": [
+      "Femur",
+      "Tibia",
+      "Scapula",
+      "Pelvis"
+    ],
+    "correct_answer": "Scapula",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which blood type is considered the universal donor?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "correct_answer": "O",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Where does fertilization typically occur?",
+    "options": [
+      "Uterus",
+      "Ovary",
+      "Fallopian tube",
+      "Vagina"
+    ],
+    "correct_answer": "Fallopian tube",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which of the following is a sense organ?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Eye",
+      "Heart"
+    ],
+    "correct_answer": "Eye",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the name of the voice box?",
+    "options": [
+      "Esophagus",
+      "Trachea",
+      "Larynx",
+      "Pharynx"
+    ],
+    "correct_answer": "Larynx",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the function of the large intestine?",
+    "options": [
+      "Absorbing nutrients",
+      "Absorbing water",
+      "Digesting proteins",
+      "Filtering blood"
+    ],
+    "correct_answer": "Absorbing water",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which of the following is a type of white blood cell?",
+    "options": [
+      "Erythrocyte",
+      "Thrombocyte",
+      "Leukocyte",
+      "Plasma"
+    ],
+    "correct_answer": "Leukocyte",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the main function of the lymphatic system?",
+    "options": [
+      "Transporting oxygen",
+      "Filtering waste",
+      "Immunity",
+      "Digestion"
+    ],
+    "correct_answer": "Immunity",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which vitamin is produced by the skin when exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_answer": "Vitamin D",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "What is the name for the process of cell division?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Photosynthesis",
+      "Respiration"
+    ],
+    "correct_answer": "Mitosis",
+    "Difficulty Level": "Beginner",
+    "subject": "HAP"
+  },
+  {
+    "question": "Which of the following structures is primarily responsible for gas exchange in the lungs?",
+    "options": [
+      "Bronchioles",
+      "Trachea",
+      "Alveoli",
+      "Pleura"
+    ],
+    "correct_answer": "Alveoli",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the primary function of the sinoatrial (SA) node?",
+    "options": [
+      "Regulating blood pressure",
+      "Initiating the heartbeat",
+      "Filtering blood",
+      "Controlling breathing rate"
+    ],
+    "correct_answer": "Initiating the heartbeat",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which hormone is responsible for regulating blood glucose levels by facilitating glucose uptake into cells?",
+    "options": [
+      "Glucagon",
+      "Insulin",
+      "Cortisol",
+      "Epinephrine"
+    ],
+    "correct_answer": "Insulin",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "The nephron is the functional unit of which organ?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Spleen"
+    ],
+    "correct_answer": "Kidney",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which type of tissue is characterized by its ability to contract and generate movement?",
+    "options": [
+      "Epithelial tissue",
+      "Connective tissue",
+      "Nervous tissue",
+      "Muscle tissue"
+    ],
+    "correct_answer": "Muscle tissue",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the role of the neurotransmitter acetylcholine at the neuromuscular junction?",
+    "options": [
+      "Inhibiting muscle contraction",
+      "Stimulating muscle contraction",
+      "Regulating hormone release",
+      "Decreasing heart rate"
+    ],
+    "correct_answer": "Stimulating muscle contraction",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is NOT a function of the skeletal system?",
+    "options": [
+      "Support",
+      "Movement",
+      "Protection",
+      "Vitamin synthesis"
+    ],
+    "correct_answer": "Vitamin synthesis",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Where does fertilization typically occur in the female reproductive system?",
+    "options": [
+      "Uterus",
+      "Ovary",
+      "Fallopian tube",
+      "Vagina"
+    ],
+    "correct_answer": "Fallopian tube",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the primary function of the myelin sheath?",
+    "options": [
+      "To increase the speed of nerve impulse transmission",
+      "To protect the neuron from physical damage",
+      "To nourish the neuron",
+      "To produce neurotransmitters"
+    ],
+    "correct_answer": "To increase the speed of nerve impulse transmission",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is a component of the lymphatic system?",
+    "options": [
+      "Liver",
+      "Spleen",
+      "Pancreas",
+      "Gallbladder"
+    ],
+    "correct_answer": "Spleen",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which valve prevents backflow of blood from the left ventricle into the left atrium?",
+    "options": [
+      "Tricuspid valve",
+      "Pulmonary valve",
+      "Mitral valve",
+      "Aortic valve"
+    ],
+    "correct_answer": "Mitral valve",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the function of the parathyroid hormone (PTH)?",
+    "options": [
+      "Lowering blood calcium levels",
+      "Raising blood calcium levels",
+      "Regulating blood glucose levels",
+      "Stimulating thyroid hormone release"
+    ],
+    "correct_answer": "Raising blood calcium levels",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which layer of the skin contains blood vessels, nerves, and hair follicles?",
+    "options": [
+      "Epidermis",
+      "Dermis",
+      "Hypodermis",
+      "Stratum corneum"
+    ],
+    "correct_answer": "Dermis",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the role of bile in digestion?",
+    "options": [
+      "Breaking down proteins",
+      "Emulsifying fats",
+      "Absorbing carbohydrates",
+      "Neutralizing stomach acid"
+    ],
+    "correct_answer": "Emulsifying fats",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which part of the brain is primarily responsible for coordinating movement and balance?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Brainstem",
+      "Thalamus"
+    ],
+    "correct_answer": "Cerebellum",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the function of antibodies in the immune system?",
+    "options": [
+      "Phagocytizing pathogens",
+      "Activating complement",
+      "Neutralizing antigens",
+      "Releasing histamine"
+    ],
+    "correct_answer": "Neutralizing antigens",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which type of cell is responsible for bone resorption?",
+    "options": [
+      "Osteoblasts",
+      "Osteocytes",
+      "Osteoclasts",
+      "Chondrocytes"
+    ],
+    "correct_answer": "Osteoclasts",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "The process of creating glucose from non-carbohydrate sources is called:",
+    "options": [
+      "Glycogenesis",
+      "Glycogenolysis",
+      "Gluconeogenesis",
+      "Glycolysis"
+    ],
+    "correct_answer": "Gluconeogenesis",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which cranial nerve is responsible for transmitting visual information to the brain?",
+    "options": [
+      "Optic nerve",
+      "Olfactory nerve",
+      "Oculomotor nerve",
+      "Trigeminal nerve"
+    ],
+    "correct_answer": "Optic nerve",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the primary function of ADH (antidiuretic hormone)?",
+    "options": [
+      "Increase urine production",
+      "Decrease urine production",
+      "Regulate blood glucose",
+      "Stimulate thirst"
+    ],
+    "correct_answer": "Decrease urine production",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which type of joint allows for the greatest range of motion?",
+    "options": [
+      "Hinge joint",
+      "Pivot joint",
+      "Saddle joint",
+      "Ball-and-socket joint"
+    ],
+    "correct_answer": "Ball-and-socket joint",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the function of surfactant in the alveoli?",
+    "options": [
+      "To increase surface tension",
+      "To decrease surface tension",
+      "To transport oxygen",
+      "To destroy pathogens"
+    ],
+    "correct_answer": "To decrease surface tension",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of the following is a characteristic of cardiac muscle tissue?",
+    "options": [
+      "Voluntary control",
+      "Multinucleated cells",
+      "Striated and involuntary",
+      "Non-striated and voluntary"
+    ],
+    "correct_answer": "Striated and involuntary",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "What is the name of the structure that connects bone to bone?",
+    "options": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Fascia"
+    ],
+    "correct_answer": "Ligament",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "The process by which white blood cells squeeze through capillary walls to fight infection in surrounding tissues is called:",
+    "options": [
+      "Diapedesis",
+      "Phagocytosis",
+      "Chemotaxis",
+      "Inflammation"
+    ],
+    "correct_answer": "Diapedesis",
+    "Difficulty Level": "Intermediate",
+    "subject": "Human Anatomy and Physiology"
+  },
+  {
+    "question": "Which of these is a common greeting in Japanese?",
+    "options": [
+      "Bonjour",
+      "Konnichiwa",
+      "Hola",
+      "Guten Tag"
+    ],
+    "correct_answer": "Konnichiwa",
+    "Difficulty Level": "Beginner",
+    "subject": "Japan"
+  },
+  {
+    "question": "What is the name of the Japanese currency?",
+    "options": [
+      "Dollar",
+      "Euro",
+      "Yen",
+      "Pound"
+    ],
+    "correct_answer": "Yen",
+    "Difficulty Level": "Beginner",
+    "subject": "Japan"
+  },
+  {
+    "question": "Which of these is a popular Japanese dish?",
+    "options": [
+      "Pasta",
+      "Pizza",
+      "Sushi",
+      "Hamburger"
+    ],
+    "correct_answer": "Sushi",
+    "Difficulty Level": "Beginner",
+    "subject": "Japan"
+  },
+  {
+    "question": "\u300c\u3053\u3093\u306b\u3061\u306f\u300d\u306f\u3069\u3093\u306a\u610f\u5473\u3067\u3059\u304b\uff1f",
+    "options": [
+      "\u3055\u3088\u3046\u306a\u3089",
+      "\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059",
+      "\u3053\u3093\u306b\u3061\u306f",
+      "\u3053\u3093\u3070\u3093\u306f"
+    ],
+    "correct_answer": "\u3053\u3093\u306b\u3061\u306f",
+    "Difficulty Level": "Beginner",
+    "subject": "Japani"
+  },
+  {
+    "question": "\u6b21\u306e\u3046\u3061\u3001\u6570\u5b57\u306e\u300c1\u300d\u306f\u4f55\u3067\u3059\u304b\uff1f",
+    "options": [
+      "\u4e8c",
+      "\u4e00",
+      "\u4e09",
+      "\u56db"
+    ],
+    "correct_answer": "\u4e00",
+    "Difficulty Level": "Beginner",
+    "subject": "Japani"
+  },
+  {
+    "question": "\u3053\u308c\u306f\u4f55\u3067\u3059\u304b\uff1f(pointing to a pencil)  \u925b\u7b46\u306f\u65e5\u672c\u8a9e\u3067\u4f55\u3068\u8a00\u3044\u307e\u3059\u304b\uff1f",
+    "options": [
+      "\u672c (hon)",
+      "\u925b\u7b46 (enpitsu)",
+      "\u6d88\u3057\u30b4\u30e0 (keshigomu)",
+      "\u673a (tsukue)"
+    ],
+    "correct_answer": "\u925b\u7b46 (enpitsu)",
+    "Difficulty Level": "Beginner",
+    "subject": "Japani"
+  },
+  {
+    "question": "Which data structure follows the LIFO (Last-In, First-Out) principle?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Tree"
+    ],
+    "correct_answer": "Stack",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is the time complexity of accessing an element in an array by its index?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(1)",
+      "O(n^2)"
+    ],
+    "correct_answer": "O(1)",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which data structure follows the FIFO (First-In, First-Out) principle?",
+    "options": [
+      "Stack",
+      "Tree",
+      "Queue",
+      "Graph"
+    ],
+    "correct_answer": "Queue",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is the main advantage of using a linked list over an array?",
+    "options": [
+      "Faster access to elements",
+      "Dynamic size",
+      "Lower memory usage",
+      "Simpler implementation"
+    ],
+    "correct_answer": "Dynamic size",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which of the following is a linear data structure?",
+    "options": [
+      "Tree",
+      "Graph",
+      "Array",
+      "Heap"
+    ],
+    "correct_answer": "Array",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is the purpose of a binary search algorithm?",
+    "options": [
+      "To sort an array",
+      "To find the largest element in an array",
+      "To search for an element in a sorted array",
+      "To reverse an array"
+    ],
+    "correct_answer": "To search for an element in a sorted array",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is the root node in a tree data structure?",
+    "options": [
+      "The last node added",
+      "The node with no children",
+      "The node with no parent",
+      "The node with the smallest value"
+    ],
+    "correct_answer": "The node with no parent",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "What does DSA stand for?",
+    "options": [
+      "Data System Architecture",
+      "Database Storage Algorithm",
+      "Data Structures and Algorithms",
+      "Digital Signal Analysis"
+    ],
+    "correct_answer": "Data Structures and Algorithms",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "In which data structure are elements inserted at one end and removed from the other?",
+    "options": [
+      "Stack",
+      "Array",
+      "Queue",
+      "Linked List"
+    ],
+    "correct_answer": "Queue",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is the main purpose of an algorithm?",
+    "options": [
+      "To define a data structure",
+      "To solve a specific problem",
+      "To store data",
+      "To display data"
+    ],
+    "correct_answer": "To solve a specific problem",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which of the following is NOT a basic operation on an array?",
+    "options": [
+      "Insertion",
+      "Deletion",
+      "Searching",
+      "Compression"
+    ],
+    "correct_answer": "Compression",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is the time complexity of a linear search algorithm in the worst case?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n^2)"
+    ],
+    "correct_answer": "O(n)",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is the purpose of a 'push' operation in a stack?",
+    "options": [
+      "To remove an element from the top of the stack",
+      "To add an element to the top of the stack",
+      "To check if the stack is empty",
+      "To rearrange the elements in the stack"
+    ],
+    "correct_answer": "To add an element to the top of the stack",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is the purpose of a 'pop' operation in a stack?",
+    "options": [
+      "To add an element to the top of the stack",
+      "To check if the stack is full",
+      "To remove an element from the top of the stack",
+      "To find the size of the stack"
+    ],
+    "correct_answer": "To remove an element from the top of the stack",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which data structure is used to implement recursion?",
+    "options": [
+      "Queue",
+      "Linked List",
+      "Stack",
+      "Array"
+    ],
+    "correct_answer": "Stack",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is a node in a linked list composed of?",
+    "options": [
+      "Data and an index",
+      "Data and a key",
+      "Data and a pointer to the next node",
+      "Only data"
+    ],
+    "correct_answer": "Data and a pointer to the next node",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which sorting algorithm has a time complexity of O(n log n) in the best case?",
+    "options": [
+      "Bubble Sort",
+      "Selection Sort",
+      "Insertion Sort",
+      "Merge Sort"
+    ],
+    "correct_answer": "Merge Sort",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is the space complexity of an algorithm?",
+    "options": [
+      "The time it takes to run the algorithm",
+      "The amount of memory the algorithm uses",
+      "The number of lines of code in the algorithm",
+      "The number of input variables the algorithm uses"
+    ],
+    "correct_answer": "The amount of memory the algorithm uses",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "What is a graph data structure?",
+    "options": [
+      "A linear data structure",
+      "A hierarchical data structure",
+      "A non-linear data structure consisting of nodes and edges",
+      "A type of array"
+    ],
+    "correct_answer": "A non-linear data structure consisting of nodes and edges",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which of the following is a searching algorithm?",
+    "options": [
+      "Insertion Sort",
+      "Bubble Sort",
+      "Linear Search",
+      "Merge Sort"
+    ],
+    "correct_answer": "Linear Search",
+    "Difficulty Level": "Beginner",
+    "subject": "DSA"
+  },
+  {
+    "question": "Which of the following is a valid data type in Java?",
+    "options": [
+      "text",
+      "decimal",
+      "integer",
+      "string"
+    ],
+    "correct_answer": "integer",
+    "Difficulty Level": "Beginner",
+    "subject": "Java"
+  },
+  {
+    "question": "What is the purpose of the 'main' method in a Java program?",
+    "options": [
+      "To display a message on the screen",
+      "To define variables",
+      "To start the execution of the program",
+      "To import libraries"
+    ],
+    "correct_answer": "To start the execution of the program",
+    "Difficulty Level": "Beginner",
+    "subject": "Java"
+  },
+  {
+    "question": "Which keyword is used to declare a constant variable in Java?",
+    "options": [
+      "static",
+      "const",
+      "final",
+      "constant"
+    ],
+    "correct_answer": "final",
+    "Difficulty Level": "Beginner",
+    "subject": "Java"
+  },
+  {
+    "question": "What does the 'System.out.println()' statement do in Java?",
+    "options": [
+      "Reads input from the keyboard",
+      "Prints output to the console",
+      "Declares a new variable",
+      "Defines a new class"
+    ],
+    "correct_answer": "Prints output to the console",
+    "Difficulty Level": "Beginner",
+    "subject": "Java"
+  },
+  {
+    "question": "Which of the following is a comment in Java?",
+    "options": [
+      "// This is a comment",
+      "# This is a comment",
+      "<!-- This is a comment -->",
+      "' This is a comment"
+    ],
+    "correct_answer": "// This is a comment",
+    "Difficulty Level": "Beginner",
+    "subject": "Java"
+  }
+]
