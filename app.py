@@ -11,6 +11,8 @@ import hashlib
 import datetime
 import random
 import string
+import phonenumbers
+from phonenumbers.phonenumberutil import NumberParseException
 
 load_dotenv()
 
@@ -408,9 +410,24 @@ def signup():
         stream = request.form['stream']
         phone = request.form['phone']
 
+        # Validate phone number
+        try:
+            parsed_number = phonenumbers.parse(phone, None)
+            if not phonenumbers.is_valid_number(parsed_number):
+                flash('Invalid phone number. Please enter a valid phone number with country code (e.g., +91XXXXXXXXXX)', 'danger')
+                return render_template('signup.html', username=username, name=name, stream=stream, phone=phone)
+        except NumberParseException as e:
+            flash('Invalid phone number format. Please include country code (e.g., +91 for India)', 'danger')
+            return render_template('signup.html', username=username, name=name, stream=stream, phone=phone)
+
         users = load_users()
         if username in users:
             flash('Username already exists. Please choose a different one.', 'danger')
+            return render_template('signup.html', username=username, name=name, stream=stream, phone=phone)
+
+        # Check if phone number is already registered
+        if any(user.get('phone') == phone for user in users.values()):
+            flash('This phone number is already registered. Please use a different number or log in.', 'danger')
             return render_template('signup.html', username=username, name=name, stream=stream, phone=phone)
 
         def generate_unique_id(existing_ids):
@@ -1282,8 +1299,5 @@ if __name__ == '__main__':
     # Ensure reports directory exists
     if not os.path.exists(REPORTS_DIR):
         os.makedirs(REPORTS_DIR)
-    port = int(os.getenv("PORT", 5001))
-    # Combine host, port, and debug mode in a single call
-    app.run(host='127.0.0.1', port=port, debug=True)
-
-    # app.run(debug=True)
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host='0.0.0.0', port=port)
